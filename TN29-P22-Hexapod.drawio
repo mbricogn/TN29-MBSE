@@ -1,34 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T13:17:11.920Z" agent="5.0 (Windows)" etag="0EkKi-cx2TOIBeZVFR57" version="16.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-04T13:17:45.571Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="lszYSSvQsPJAFm1v7c2j" version="16.6.6" type="github" pages="2">
   <diagram id="Hh7kF4fS-FXk80I3GIZw" name="Finalités et missions">
-    <mxGraphModel dx="1422" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="460" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LnJoH1OPp0uSo5Zn9Vst-3" value="Finalité" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+        <mxCell id="LnJoH1OPp0uSo5Zn9Vst-3" value="Finalité" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="90" width="200" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="LnJoH1OPp0uSo5Zn9Vst-4" value="Inspecter une structure 3D selon 2 modes de fonctionnement (autonome ou &#xa;manuel) en s’adaptant à son environnement de manière sécurisée" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="LnJoH1OPp0uSo5Zn9Vst-3">
+        <mxCell id="LnJoH1OPp0uSo5Zn9Vst-4" value="Inspecter une structure 3D selon 2 modes de fonctionnement (autonome ou &#xa;manuel) en s’adaptant à son environnement de manière sécurisée" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" parent="LnJoH1OPp0uSo5Zn9Vst-3" vertex="1">
           <mxGeometry y="30" width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="LnJoH1OPp0uSo5Zn9Vst-8" value="Finalité" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+        <mxCell id="LnJoH1OPp0uSo5Zn9Vst-8" value="Finalité" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="320" width="200" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="LnJoH1OPp0uSo5Zn9Vst-9" value="Inspecter une structure 3D selon 2 modes de fonctionnement (autonome ou &#xa;manuel) en s’adaptant à son environnement de manière sécurisée" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="LnJoH1OPp0uSo5Zn9Vst-8">
+        <mxCell id="LnJoH1OPp0uSo5Zn9Vst-9" value="Inspecter une structure 3D selon 2 modes de fonctionnement (autonome ou &#xa;manuel) en s’adaptant à son environnement de manière sécurisée" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" parent="LnJoH1OPp0uSo5Zn9Vst-8" vertex="1">
           <mxGeometry y="30" width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="LnJoH1OPp0uSo5Zn9Vst-10" value="Finalité" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+        <mxCell id="LnJoH1OPp0uSo5Zn9Vst-10" value="Finalité" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="320" width="200" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="LnJoH1OPp0uSo5Zn9Vst-11" value="Inspecter une structure 3D selon 2 modes de fonctionnement (autonome ou &#xa;manuel) en s’adaptant à son environnement de manière sécurisée" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="LnJoH1OPp0uSo5Zn9Vst-10">
+        <mxCell id="LnJoH1OPp0uSo5Zn9Vst-11" value="Inspecter une structure 3D selon 2 modes de fonctionnement (autonome ou &#xa;manuel) en s’adaptant à son environnement de manière sécurisée" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" parent="LnJoH1OPp0uSo5Zn9Vst-10" vertex="1">
           <mxGeometry y="30" width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="LnJoH1OPp0uSo5Zn9Vst-12" value="Finalité" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+        <mxCell id="LnJoH1OPp0uSo5Zn9Vst-12" value="Finalité" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="320" width="200" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="LnJoH1OPp0uSo5Zn9Vst-13" value="Inspecter une structure 3D selon 2 modes de fonctionnement (autonome ou &#xa;manuel) en s’adaptant à son environnement de manière sécurisée" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="LnJoH1OPp0uSo5Zn9Vst-12">
+        <mxCell id="LnJoH1OPp0uSo5Zn9Vst-13" value="Inspecter une structure 3D selon 2 modes de fonctionnement (autonome ou &#xa;manuel) en s’adaptant à son environnement de manière sécurisée" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" parent="LnJoH1OPp0uSo5Zn9Vst-12" vertex="1">
           <mxGeometry y="30" width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="LnJoH1OPp0uSo5Zn9Vst-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LnJoH1OPp0uSo5Zn9Vst-8" target="LnJoH1OPp0uSo5Zn9Vst-3">
+        <mxCell id="LnJoH1OPp0uSo5Zn9Vst-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="LnJoH1OPp0uSo5Zn9Vst-8" target="LnJoH1OPp0uSo5Zn9Vst-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="310" as="sourcePoint" />
             <mxPoint x="440" y="380" as="targetPoint" />
@@ -45,16 +45,16 @@
       <root>
         <mxCell id="kX3z3R_v6jU9H33DW2uD-0" />
         <mxCell id="kX3z3R_v6jU9H33DW2uD-1" parent="kX3z3R_v6jU9H33DW2uD-0" />
-        <mxCell id="kX3z3R_v6jU9H33DW2uD-3" value="Classname" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="kX3z3R_v6jU9H33DW2uD-1">
+        <mxCell id="kX3z3R_v6jU9H33DW2uD-3" value="Hexapod" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="kX3z3R_v6jU9H33DW2uD-1" vertex="1">
           <mxGeometry x="170" y="220" width="140" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="kX3z3R_v6jU9H33DW2uD-4" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kX3z3R_v6jU9H33DW2uD-3">
+        <mxCell id="kX3z3R_v6jU9H33DW2uD-4" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="kX3z3R_v6jU9H33DW2uD-3" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="kX3z3R_v6jU9H33DW2uD-5" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kX3z3R_v6jU9H33DW2uD-3">
+        <mxCell id="kX3z3R_v6jU9H33DW2uD-5" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="kX3z3R_v6jU9H33DW2uD-3" vertex="1">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="kX3z3R_v6jU9H33DW2uD-6" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kX3z3R_v6jU9H33DW2uD-3">
+        <mxCell id="kX3z3R_v6jU9H33DW2uD-6" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="kX3z3R_v6jU9H33DW2uD-3" vertex="1">
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
       </root>
