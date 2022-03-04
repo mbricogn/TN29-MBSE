@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T11:25:43.747Z" agent="5.0 (Windows)" etag="qKPOH707eL3z32BTZ9N8" version="15.8.8" type="github"><diagram id="Hh7kF4fS-FXk80I3GIZw" name="Page-1">dZFNE4IgEIZ/DXeVPs9mdunkoTMjmzCDroM0Wr8+HCBjLC67PPsu+wGheTuVmvXiihwUyRI+EXoimT3bjTUzeTpyyDxotOQOpQuo5As8TDx9SA5DJDSIysg+hjV2HdQmYkxrHGPZHVVctWcNrEBVM7WmN8mNCFPsF34B2YhQOd0dXaRlQewnGQTjOH4hWhCaa0TjvHbKQc3LC3txeec/0U9jGjrzI8E6y9v2Ev0QLd4=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-04T12:13:24.789Z" agent="5.0 (Windows)" etag="OWpKfBbNAkG2JlCtHE8z" version="15.8.8" type="github">
+  <diagram id="Hh7kF4fS-FXk80I3GIZw" name="Page-1">
+    <mxGraphModel dx="1038" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7MBZiMfPTqnYKmr78GWG-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br/&gt;{encapsulated}&lt;br/&gt;&lt;b&gt;Block1&lt;/b&gt;&lt;/p&gt;&lt;hr/&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;&lt;i&gt;constraints&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;{x &amp;gt; y}&lt;/p&gt;&lt;hr/&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;&lt;i&gt;operations&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;operation1 (p1 : Type1) : Type2&lt;/p&gt;&lt;hr/&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;&lt;i&gt;parts&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;property1 : Block2&lt;/p&gt;&lt;hr/&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;&lt;i&gt;references&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;property2 : Block3 [0..*] {ordered}&lt;/p&gt;&lt;hr/&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;&lt;i&gt;values&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;property3 : Integer = 99 {readOnly}&lt;br/&gt;property4 : Real = 10.0&lt;/p&gt;&lt;hr/&gt;&lt;p style=&quot;font-size:10px;margin:0px;text-align:center;&quot;&gt;&lt;i&gt;properties&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;property5 : Type1&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;verticalAlign=top;align=left;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="240" y="60" width="220" height="340" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
