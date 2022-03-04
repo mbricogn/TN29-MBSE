@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T13:51:00.013Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="njpk8bFn2Yqgti7m9VEE" version="16.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-04T13:53:19.630Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="9Vh_r2UaQ18shjs-RioA" version="16.6.6" type="github" pages="3">
   <diagram id="Hh7kF4fS-FXk80I3GIZw" name="Finalités et missions">
     <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -186,6 +186,30 @@
         <mxCell id="Nl25wbSfTAZSZIegSSTI-1" parent="Nl25wbSfTAZSZIegSSTI-0" />
         <mxCell id="Nl25wbSfTAZSZIegSSTI-2" value="Hexapod" style="swimlane;" vertex="1" parent="Nl25wbSfTAZSZIegSSTI-1">
           <mxGeometry x="314" y="270" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Nl25wbSfTAZSZIegSSTI-4" value="Vertical Container" style="swimlane;" vertex="1" parent="Nl25wbSfTAZSZIegSSTI-1">
+          <mxGeometry x="80" y="325" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Nl25wbSfTAZSZIegSSTI-6" value="Déplacement" style="swimlane;" vertex="1" parent="Nl25wbSfTAZSZIegSSTI-1">
+          <mxGeometry x="344" y="540" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Nl25wbSfTAZSZIegSSTI-7" value="Vertical Container" style="swimlane;" vertex="1" parent="Nl25wbSfTAZSZIegSSTI-1">
+          <mxGeometry x="140" y="520" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Nl25wbSfTAZSZIegSSTI-8" value="Gestion Energie" style="swimlane;" vertex="1" parent="Nl25wbSfTAZSZIegSSTI-1">
+          <mxGeometry x="610" y="325" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Nl25wbSfTAZSZIegSSTI-9" value="Vertical Container" style="swimlane;" vertex="1" parent="Nl25wbSfTAZSZIegSSTI-1">
+          <mxGeometry x="344" y="80" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Nl25wbSfTAZSZIegSSTI-10" value="Vertical Container" style="swimlane;" vertex="1" parent="Nl25wbSfTAZSZIegSSTI-1">
+          <mxGeometry x="140" y="120" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Nl25wbSfTAZSZIegSSTI-11" value="Piloter" style="swimlane;" vertex="1" parent="Nl25wbSfTAZSZIegSSTI-1">
+          <mxGeometry x="550" y="520" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Nl25wbSfTAZSZIegSSTI-12" value="Vertical Container" style="swimlane;" vertex="1" parent="Nl25wbSfTAZSZIegSSTI-1">
+          <mxGeometry x="550" y="120" width="140" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
