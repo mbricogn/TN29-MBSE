@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T14:57:49.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="lePNkjs6jzlUEN1htyTl" version="16.6.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-04T14:58:10.496Z" agent="5.0 (Windows)" etag="-Ip51oH7CiwKR_nK5TPm" version="16.6.6" type="github" pages="4">
   <diagram id="Hh7kF4fS-FXk80I3GIZw" name="Finalités et missions">
     <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="y7TtL1GLuJ1QV0dF6NCa" name="contexte organique">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1355" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kX3z3R_v6jU9H33DW2uD-0" />
         <mxCell id="kX3z3R_v6jU9H33DW2uD-1" parent="kX3z3R_v6jU9H33DW2uD-0" />
@@ -180,11 +180,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iKXI6Kce6OzbSdqyTMpK" name="Architecture Interne ">
-    <mxGraphModel dx="1497" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="Nl25wbSfTAZSZIegSSTI-0" />
         <mxCell id="Nl25wbSfTAZSZIegSSTI-1" parent="Nl25wbSfTAZSZIegSSTI-0" />
-        <mxCell id="Nl25wbSfTAZSZIegSSTI-2" value="Hexapode" style="swimlane;" vertex="1" parent="Nl25wbSfTAZSZIegSSTI-1">
+        <mxCell id="Nl25wbSfTAZSZIegSSTI-2" value="Hexapode" style="swimlane;" parent="Nl25wbSfTAZSZIegSSTI-1" vertex="1">
           <mxGeometry x="314" y="270" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Nl25wbSfTAZSZIegSSTI-6" value="Déplacement" style="swimlane;" vertex="1" parent="Nl25wbSfTAZSZIegSSTI-1">
@@ -445,10 +445,36 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QacrWY_tji1tmxMwG0Bq" name="Exigences Déplacement">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2182" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="IzHO0HgB323rQ9JFdvtW-0" />
         <mxCell id="IzHO0HgB323rQ9JFdvtW-1" parent="IzHO0HgB323rQ9JFdvtW-0" />
+        <mxCell id="IzHO0HgB323rQ9JFdvtW-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 7px ; text-align: left&quot;&gt;&lt;b&gt;req&lt;/b&gt;Déplacement&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=110;strokeWidth=2;align=center;" vertex="1" parent="IzHO0HgB323rQ9JFdvtW-1">
+          <mxGeometry x="-240" y="40" width="1050" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="IzHO0HgB323rQ9JFdvtW-4" value="&lt;p&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Hexapod&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="IzHO0HgB323rQ9JFdvtW-1">
+          <mxGeometry x="110" y="90" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IzHO0HgB323rQ9JFdvtW-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Se déplacer en autonomie&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;The system shall do&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="IzHO0HgB323rQ9JFdvtW-1">
+          <mxGeometry x="150" y="180" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IzHO0HgB323rQ9JFdvtW-6" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Se déplacer en mode manuel&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;The system shall do&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="IzHO0HgB323rQ9JFdvtW-1">
+          <mxGeometry x="490" y="180" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IzHO0HgB323rQ9JFdvtW-8" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;Avancer, reculer, tourner sur soi-même" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="IzHO0HgB323rQ9JFdvtW-1">
+          <mxGeometry x="-140" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IzHO0HgB323rQ9JFdvtW-10" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="IzHO0HgB323rQ9JFdvtW-27" target="IzHO0HgB323rQ9JFdvtW-8" parent="IzHO0HgB323rQ9JFdvtW-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IzHO0HgB323rQ9JFdvtW-25" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;Franchir et éviter des obstacles" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="IzHO0HgB323rQ9JFdvtW-1">
+          <mxGeometry x="-140" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IzHO0HgB323rQ9JFdvtW-27" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Se déplacer sur une surface 3D&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;The system shall do&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="IzHO0HgB323rQ9JFdvtW-1">
+          <mxGeometry x="-180" y="180" width="200" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
