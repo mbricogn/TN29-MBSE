@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T14:43:39.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="bk89chC5chOvmoZr-CXX" version="16.6.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-04T14:57:20.080Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="CjkOhVobp6OBjcZ3F3Mk" version="16.6.6" type="github" pages="4">
   <diagram id="Hh7kF4fS-FXk80I3GIZw" name="Finalités et missions">
     <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -271,6 +271,9 @@
         <mxCell id="Nl25wbSfTAZSZIegSSTI-21" value="Maintien" style="swimlane;" vertex="1" parent="Nl25wbSfTAZSZIegSSTI-1">
           <mxGeometry x="250" y="720" width="140" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="aAYh0Qww_YywLnVAw6z_-0" value="adhérence à&lt;br&gt;&amp;nbsp;différentes&lt;br&gt;&amp;nbsp;surfaces&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="Nl25wbSfTAZSZIegSSTI-21">
+          <mxGeometry x="20" y="35" width="100" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="Nl25wbSfTAZSZIegSSTI-22" value="Mobilité" style="swimlane;" vertex="1" parent="Nl25wbSfTAZSZIegSSTI-1">
           <mxGeometry x="440" y="720" width="140" height="130" as="geometry" />
         </mxCell>
@@ -442,7 +445,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QacrWY_tji1tmxMwG0Bq" name="Exigences Déplacement">
-    <mxGraphModel dx="1355" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="IzHO0HgB323rQ9JFdvtW-0" />
         <mxCell id="IzHO0HgB323rQ9JFdvtW-1" parent="IzHO0HgB323rQ9JFdvtW-0" />
