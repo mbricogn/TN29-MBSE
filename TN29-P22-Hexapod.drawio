@@ -1,9 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T13:15:47.717Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="zMtS7ickejkJqbUxMrZ7" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-04T13:15:53.553Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="yGpZPzox_pjGWjuIAwjX" version="16.6.6" type="github">
   <diagram id="Hh7kF4fS-FXk80I3GIZw" name="Finalités et missions">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Yi9s2YVep7KCQx7W68a7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7MBZiMfPTqnYKmr78GWG-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7MBZiMfPTqnYKmr78GWG-2" value="ActorName" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="180" y="260" width="30" height="60" as="geometry" />
         </mxCell>
