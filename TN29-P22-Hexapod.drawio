@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T13:19:04.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="xabZ9377ap46lL6HgOeB" version="16.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-04T13:19:47.649Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="TZ3fNNIKM2vSyTkdF6Fh" version="16.6.6" type="github" pages="2">
   <diagram id="Hh7kF4fS-FXk80I3GIZw" name="Finalités et missions">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="460" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,10 +10,10 @@
         <mxCell id="LnJoH1OPp0uSo5Zn9Vst-4" value="Inspecter une structure 3D selon 2 modes de fonctionnement (autonome ou &#xa;manuel) en s’adaptant à son environnement de manière sécurisée" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" parent="LnJoH1OPp0uSo5Zn9Vst-3" vertex="1">
           <mxGeometry y="30" width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="LnJoH1OPp0uSo5Zn9Vst-8" value="Mission" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+        <mxCell id="LnJoH1OPp0uSo5Zn9Vst-8" value="Mission 1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="320" width="200" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="LnJoH1OPp0uSo5Zn9Vst-9" value="Inspecter une structure 3D selon 2 modes de fonctionnement (autonome ou &#xa;manuel) en s’adaptant à son environnement de manière sécurisée" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" parent="LnJoH1OPp0uSo5Zn9Vst-8" vertex="1">
+        <mxCell id="LnJoH1OPp0uSo5Zn9Vst-9" value="Se déplacer de manière autonome ou manuelle." style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" parent="LnJoH1OPp0uSo5Zn9Vst-8" vertex="1">
           <mxGeometry y="30" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="LnJoH1OPp0uSo5Zn9Vst-10" value="Finalité" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
