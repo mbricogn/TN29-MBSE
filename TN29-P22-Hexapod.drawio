@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T13:29:26.998Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="9aSysO4RHfJyzsfjciKH" version="16.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-04T13:30:52.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="uASxD9s6wcuIafnfTzWH" version="16.6.6" type="github" pages="2">
   <diagram id="Hh7kF4fS-FXk80I3GIZw" name="Finalités et missions">
     <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,10 +89,15 @@
             <mxPoint x="440" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yux_XkOSXwU6EO0Lr2fg-0" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;" edge="1" parent="kX3z3R_v6jU9H33DW2uD-1" target="9ZyKtsSJRQ-4mlTmWDk5-1">
+        <mxCell id="Yux_XkOSXwU6EO0Lr2fg-0" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="kX3z3R_v6jU9H33DW2uD-1" source="kX3z3R_v6jU9H33DW2uD-6" target="9ZyKtsSJRQ-4mlTmWDk5-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="380" as="sourcePoint" />
             <mxPoint x="414" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="320" />
+              <mxPoint x="360" y="320" />
+              <mxPoint x="360" y="410" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Yux_XkOSXwU6EO0Lr2fg-1" value="0..1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="Yux_XkOSXwU6EO0Lr2fg-0">
