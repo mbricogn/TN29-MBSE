@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T12:13:27.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="5hBaAuahPm4DajXCk1Jo" version="17.1.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-03-11T12:13:58.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="X3jPUhX3INE-jKktR7_W" version="17.1.1" type="github" pages="7">
   <diagram id="Hh7kF4fS-FXk80I3GIZw" name="Finalités et missions">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,7 +61,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="y7TtL1GLuJ1QV0dF6NCa" name="contexte organique">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kX3z3R_v6jU9H33DW2uD-0" />
         <mxCell id="kX3z3R_v6jU9H33DW2uD-1" parent="kX3z3R_v6jU9H33DW2uD-0" />
@@ -180,7 +180,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iKXI6Kce6OzbSdqyTMpK" name="Architecture Interne ">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="771" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="Nl25wbSfTAZSZIegSSTI-0" />
         <mxCell id="Nl25wbSfTAZSZIegSSTI-1" parent="Nl25wbSfTAZSZIegSSTI-0" />
@@ -445,7 +445,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QacrWY_tji1tmxMwG0Bq" name="Exigences Déplacement">
-    <mxGraphModel dx="2591" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2591" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="IzHO0HgB323rQ9JFdvtW-0" />
         <mxCell id="IzHO0HgB323rQ9JFdvtW-1" parent="IzHO0HgB323rQ9JFdvtW-0" />
@@ -646,6 +646,17 @@
             <mxPoint x="-335" y="800" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="06nAVEA6Bb3VOtIV1wbn" name="exigences_adhérence">
+    <mxGraphModel dx="3076" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="j4vlryZKOXLqOIJe3Hs4-0" />
+        <mxCell id="j4vlryZKOXLqOIJe3Hs4-1" parent="j4vlryZKOXLqOIJe3Hs4-0" />
+        <mxCell id="j4vlryZKOXLqOIJe3Hs4-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 7px ; text-align: left&quot;&gt;&lt;b&gt;req&lt;/b&gt;adhérence&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=110;strokeWidth=2;align=center;" vertex="1" parent="j4vlryZKOXLqOIJe3Hs4-1">
+          <mxGeometry x="-1140" y="40" width="1120" height="780" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
