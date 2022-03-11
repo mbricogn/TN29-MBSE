@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T13:34:55.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="1nJ8RWaRVde_7uhsdRNE" version="17.1.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-03-11T13:35:51.459Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="lX5sZeXNR8nXXpNBXC7_" version="17.1.1" type="github" pages="12">
   <diagram id="Hh7kF4fS-FXk80I3GIZw" name="Finalités et missions">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -876,7 +876,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yUcQdMuzl9L-NrI9jAuS" name="Exigence communication">
-    <mxGraphModel dx="2692" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3076" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="oP4JhbajdV74xN4RPo3i-0" />
         <mxCell id="oP4JhbajdV74xN4RPo3i-1" parent="oP4JhbajdV74xN4RPo3i-0" />
@@ -892,11 +892,12 @@
         <mxCell id="oGIg0bfCWn916IOg2nhL-3" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Sécurité&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;du&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;système&lt;/b&gt;&lt;/span&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit faire des échanges sécurisés&quot;&lt;br&gt;Id=&quot;1.3&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#fff2cc;strokeColor=#000000;" parent="oP4JhbajdV74xN4RPo3i-1" vertex="1">
           <mxGeometry x="-350" y="260" width="280" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="oGIg0bfCWn916IOg2nhL-4" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="oP4JhbajdV74xN4RPo3i-1" source="oGIg0bfCWn916IOg2nhL-5" target="oGIg0bfCWn916IOg2nhL-8" edge="1">
+        <mxCell id="oGIg0bfCWn916IOg2nhL-4" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="oP4JhbajdV74xN4RPo3i-1" source="pOh1UnXLv8F3sE4llHcc-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-930" y="410" as="sourcePoint" />
-            <mxPoint x="-1050" y="469.9999999999998" as="targetPoint" />
+            <mxPoint x="-1070" y="430" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="-940" y="430" />
               <mxPoint x="-1010" y="390" />
             </Array>
           </mxGeometry>
@@ -913,11 +914,8 @@
             <mxPoint x="-345" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oGIg0bfCWn916IOg2nhL-8" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Emission&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;des information du&lt;/b&gt;&lt;p style=&quot;margin: 4px 0px 0px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;support&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;de pilotage&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px ; font-size: 11px&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;text-align: center&quot;&gt;à une distance&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;b&gt;suffisante&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-align: center&quot;&gt;&amp;nbsp;&lt;/b&gt;text=&quot;Le système doit être capable de émettre les information nécessaire à une distance de 100m&quot;&lt;br&gt;Id=&quot;1.1.1&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;" parent="oP4JhbajdV74xN4RPo3i-1" vertex="1">
-          <mxGeometry x="-1130" y="430" width="120" height="190" as="geometry" />
-        </mxCell>
         <mxCell id="oGIg0bfCWn916IOg2nhL-9" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Emettre&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;a la base de données&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit&amp;nbsp; être capable d&#39;emettre les informations au serveur&quot;&lt;br&gt;Id=&quot;1.1.1.1&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;" parent="oP4JhbajdV74xN4RPo3i-1" vertex="1">
-          <mxGeometry x="-1030" y="660" width="120" height="140" as="geometry" />
+          <mxGeometry x="-1000" y="670" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oGIg0bfCWn916IOg2nhL-10" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Emettre&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;à l&#39;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;environnement&lt;/b&gt;&lt;/span&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit pouvoir emmètre des information visuel sonore à son environnement&quot;&lt;br&gt;Id=&quot;1.1.2&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;" parent="oP4JhbajdV74xN4RPo3i-1" vertex="1">
           <mxGeometry x="-900" y="430" width="120" height="170" as="geometry" />
@@ -1033,12 +1031,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D_9t3xumMRppzpQeDuHC-2" value="" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.117;entryDx=0;entryDy=0;entryPerimeter=0;" parent="oP4JhbajdV74xN4RPo3i-1" source="oGIg0bfCWn916IOg2nhL-8" target="oGIg0bfCWn916IOg2nhL-9" edge="1">
+        <mxCell id="D_9t3xumMRppzpQeDuHC-2" value="" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.117;entryDx=0;entryDy=0;entryPerimeter=0;" parent="oP4JhbajdV74xN4RPo3i-1" target="oGIg0bfCWn916IOg2nhL-9" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-1170" y="660" as="sourcePoint" />
+            <mxPoint x="-1070" y="620" as="sourcePoint" />
             <mxPoint x="-1010" y="660" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1070" y="676" />
+              <mxPoint x="-1070" y="686" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1049,6 +1047,16 @@
             <Array as="points">
               <mxPoint x="-690" y="705" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pOh1UnXLv8F3sE4llHcc-0" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Emission des informations du&lt;/b&gt;&lt;/span&gt;&lt;p style=&quot;margin: 4px 0px 0px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;support&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;de pilotage&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px ; font-size: 11px&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;à une distance &lt;/b&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;suffisante&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit être capable d&#39; émettre les informations nécessaire à une distance de 100m&quot;&lt;br&gt;Id=&quot;1.1.1&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;" vertex="1" parent="oP4JhbajdV74xN4RPo3i-1">
+          <mxGeometry x="-1110" y="425" width="130" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="pOh1UnXLv8F3sE4llHcc-1" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="oP4JhbajdV74xN4RPo3i-1" source="oGIg0bfCWn916IOg2nhL-5" target="pOh1UnXLv8F3sE4llHcc-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-960" y="362" as="sourcePoint" />
+            <mxPoint x="-1070" y="430" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
