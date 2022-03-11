@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T14:30:50.106Z" agent="5.0 (Windows)" etag="CFMdYd0rCsk0vtVgjsDB" version="17.1.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-03-11T14:32:05.410Z" agent="5.0 (Windows)" etag="3OgEzDmjeR_QN8XPyLzu" version="17.1.1" type="github" pages="12">
   <diagram id="Hh7kF4fS-FXk80I3GIZw" name="Finalités et missions">
     <mxGraphModel dx="1423" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1336,8 +1336,8 @@
         <mxCell id="qFSENUZ4EXoli7oLT_mk-7" value="Réaliser l&#39;itinéraire" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="9JyshwWv-mHhqSfC9A_L-1">
           <mxGeometry x="220" y="580" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qFSENUZ4EXoli7oLT_mk-8" value="Se déplacer jusqu&#39;à la base de rechargement" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="9JyshwWv-mHhqSfC9A_L-1">
-          <mxGeometry x="820" y="414" width="150" height="60" as="geometry" />
+        <mxCell id="qFSENUZ4EXoli7oLT_mk-8" value="Se déplacer jusqu&#39;à la base de rechargement et se recharger" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="9JyshwWv-mHhqSfC9A_L-1">
+          <mxGeometry x="770" y="440" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="b6TtwvhsIXiCAr-KG2iB-0" value="Estimer l&#39;état d&#39;énergie actuel" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="9JyshwWv-mHhqSfC9A_L-1">
           <mxGeometry x="510" y="440" width="120" height="60" as="geometry" />
@@ -1380,6 +1380,9 @@
             <mxPoint x="430" y="400" as="sourcePoint" />
             <mxPoint x="590" y="400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0_Khax-mgg6Og6fL6b4u-2" value="" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="9JyshwWv-mHhqSfC9A_L-1">
+          <mxGeometry x="850" y="320" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
