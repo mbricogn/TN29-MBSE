@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T13:16:55.891Z" agent="5.0 (Windows)" etag="Gs3-9n_BVqQLuaqbmVe2" version="17.1.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-11T13:18:16.421Z" agent="5.0 (Windows)" etag="i6mQUiYjmNzoweM_Nky4" version="17.1.2" type="github" pages="10">
   <diagram id="Hh7kF4fS-FXk80I3GIZw" name="Finalités et missions">
     <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -808,13 +808,30 @@
           <mxGeometry x="30" y="353" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ku004qmqqKwUcWxV6kf0-1" value="Analyse du matériau la surface" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="GRQcbA9fOfUqG-Gxjur5-1">
-          <mxGeometry x="210" y="150" width="130" height="70" as="geometry" />
+          <mxGeometry x="225" y="283" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ku004qmqqKwUcWxV6kf0-2" value="Choix des forces de succion max et min" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="GRQcbA9fOfUqG-Gxjur5-1">
           <mxGeometry x="540" y="190" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ku004qmqqKwUcWxV6kf0-3" value="Analyse de l&#39;orientation de la surface" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="GRQcbA9fOfUqG-Gxjur5-1">
-          <mxGeometry x="380" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ku004qmqqKwUcWxV6kf0-4" value="Analyse surface" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="GRQcbA9fOfUqG-Gxjur5-1">
+          <mxGeometry x="230" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ku004qmqqKwUcWxV6kf0-5" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="GRQcbA9fOfUqG-Gxjur5-1" source="ku004qmqqKwUcWxV6kf0-4" target="ku004qmqqKwUcWxV6kf0-1">
+          <mxGeometry x="-0.0698" y="30" width="160" relative="1" as="geometry">
+            <mxPoint x="450" y="420" as="sourcePoint" />
+            <mxPoint x="610" y="420" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ku004qmqqKwUcWxV6kf0-6" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="GRQcbA9fOfUqG-Gxjur5-1" source="ku004qmqqKwUcWxV6kf0-4" target="ku004qmqqKwUcWxV6kf0-3">
+          <mxGeometry x="-0.5" y="-30" width="160" relative="1" as="geometry">
+            <mxPoint x="450" y="420" as="sourcePoint" />
+            <mxPoint x="610" y="420" as="targetPoint" />
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
