@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T12:44:01.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="qQbqeB0SA2YBmJ9ZjvBI" version="17.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-03-11T12:44:11.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="nQJV_IAtLMZOsV1Y8Y21" version="17.1.1" type="github" pages="7">
   <diagram id="Hh7kF4fS-FXk80I3GIZw" name="Finalités et missions">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,7 +61,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="y7TtL1GLuJ1QV0dF6NCa" name="contexte organique">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kX3z3R_v6jU9H33DW2uD-0" />
         <mxCell id="kX3z3R_v6jU9H33DW2uD-1" parent="kX3z3R_v6jU9H33DW2uD-0" />
@@ -180,7 +180,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iKXI6Kce6OzbSdqyTMpK" name="Architecture Interne ">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="Nl25wbSfTAZSZIegSSTI-0" />
         <mxCell id="Nl25wbSfTAZSZIegSSTI-1" parent="Nl25wbSfTAZSZIegSSTI-0" />
@@ -445,7 +445,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QacrWY_tji1tmxMwG0Bq" name="Exigences Déplacement">
-    <mxGraphModel dx="2591" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2591" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="IzHO0HgB323rQ9JFdvtW-0" />
         <mxCell id="IzHO0HgB323rQ9JFdvtW-1" parent="IzHO0HgB323rQ9JFdvtW-0" />
@@ -651,20 +651,20 @@
     </mxGraphModel>
   </diagram>
   <diagram id="06nAVEA6Bb3VOtIV1wbn" name="exigences_adhérence">
-    <mxGraphModel dx="3076" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="j4vlryZKOXLqOIJe3Hs4-0" />
         <mxCell id="j4vlryZKOXLqOIJe3Hs4-1" parent="j4vlryZKOXLqOIJe3Hs4-0" />
         <mxCell id="j4vlryZKOXLqOIJe3Hs4-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 7px ; text-align: left&quot;&gt;&lt;b&gt;req&lt;/b&gt;adhérence&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=110;strokeWidth=2;align=center;" parent="j4vlryZKOXLqOIJe3Hs4-1" vertex="1">
           <mxGeometry x="-1460" y="20" width="1120" height="780" as="geometry" />
         </mxCell>
-        <mxCell id="vU0jYl4ESB7AIvXmYRRR-0" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Adhérer&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit adhérer à la surface&quot;&lt;br&gt;Id=&quot;1&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="j4vlryZKOXLqOIJe3Hs4-1">
+        <mxCell id="vU0jYl4ESB7AIvXmYRRR-0" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Adhérer&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit adhérer à la surface&quot;&lt;br&gt;Id=&quot;1&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#000000;" parent="j4vlryZKOXLqOIJe3Hs4-1" vertex="1">
           <mxGeometry x="-1040" y="150" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="L-miaAg24-FvBCsglQU6-0" value="&lt;p style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Hexapod&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="j4vlryZKOXLqOIJe3Hs4-1">
+        <mxCell id="L-miaAg24-FvBCsglQU6-0" value="&lt;p style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Hexapod&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#000000;" parent="j4vlryZKOXLqOIJe3Hs4-1" vertex="1">
           <mxGeometry x="-1020" y="50" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Iwz8PUprFIEcvl5H-nMM-0" value="" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="j4vlryZKOXLqOIJe3Hs4-1" source="L-miaAg24-FvBCsglQU6-0" target="vU0jYl4ESB7AIvXmYRRR-0">
+        <mxCell id="Iwz8PUprFIEcvl5H-nMM-0" value="" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="j4vlryZKOXLqOIJe3Hs4-1" source="L-miaAg24-FvBCsglQU6-0" target="vU0jYl4ESB7AIvXmYRRR-0" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-580" y="110" as="sourcePoint" />
             <mxPoint x="-580" y="140" as="targetPoint" />
@@ -883,7 +883,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vcQ1z5H1LSXHvnJJjfSx" name="Exigences gestion de l&#39;autonomie">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2591" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="PRiBVkdHzEgUFiVw83NB-0" />
         <mxCell id="PRiBVkdHzEgUFiVw83NB-1" parent="PRiBVkdHzEgUFiVw83NB-0" />
@@ -931,9 +931,6 @@
         </mxCell>
         <mxCell id="P1L-5pEQMVqUwLw-VTTZ-10" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;quantifier son niveau d&#39;énergie&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit être capable de quantifier son niveau d&#39;énergie&quot;&lt;br&gt;Id=&quot;1.2.1&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;" vertex="1" parent="PRiBVkdHzEgUFiVw83NB-1">
           <mxGeometry x="310" y="410" width="120" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="P1L-5pEQMVqUwLw-VTTZ-11" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Faire la transition entre les modes manuel et autonome&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit faire la transition entre les modes manuel et autonome&quot;&lt;br&gt;Id=&quot;1.4&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;" vertex="1" parent="PRiBVkdHzEgUFiVw83NB-1">
-          <mxGeometry x="560" y="620" width="130" height="150" as="geometry" />
         </mxCell>
         <mxCell id="P1L-5pEQMVqUwLw-VTTZ-12" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;b&gt;estimer l&#39;énergie nécessaire pour retourner à la station de chargement&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit être capable d&#39;estimer la quantité d&#39;énergie nécessaire pour retourner à la base&quot;&lt;br&gt;Id=&quot;1.2.2&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;" vertex="1" parent="PRiBVkdHzEgUFiVw83NB-1">
           <mxGeometry x="390" y="630" width="120" height="170" as="geometry" />
@@ -1076,13 +1073,6 @@
               <mxPoint x="965" y="460" />
               <mxPoint x="955" y="460" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="P1L-5pEQMVqUwLw-VTTZ-28" value="&amp;lt;&amp;lt;deriveReqt&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;endSize=12;dashed=1;verticalAlign=bottom;rounded=0;fontSize=11;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="PRiBVkdHzEgUFiVw83NB-1" source="P1L-5pEQMVqUwLw-VTTZ-11" target="P1L-5pEQMVqUwLw-VTTZ-1">
-          <mxGeometry x="-0.5991" y="-2" width="160" relative="1" as="geometry">
-            <mxPoint x="535" y="780" as="sourcePoint" />
-            <mxPoint x="695" y="780" as="targetPoint" />
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="t653EOxPALoRumfIMJbX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.795;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="PRiBVkdHzEgUFiVw83NB-1" source="P1L-5pEQMVqUwLw-VTTZ-5" target="P1L-5pEQMVqUwLw-VTTZ-5">
