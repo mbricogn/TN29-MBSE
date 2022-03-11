@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T13:29:28.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="0cSkV2BRXQJPKgsSYo4n" version="17.1.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-03-11T13:32:18.221Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="wBqKTAyJJg5G3rhq9wyt" version="17.1.2" type="github" pages="12">
   <diagram id="Hh7kF4fS-FXk80I3GIZw" name="Finalités et missions">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,7 +61,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="y7TtL1GLuJ1QV0dF6NCa" name="contexte organique">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kX3z3R_v6jU9H33DW2uD-0" />
         <mxCell id="kX3z3R_v6jU9H33DW2uD-1" parent="kX3z3R_v6jU9H33DW2uD-0" />
@@ -180,7 +180,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iKXI6Kce6OzbSdqyTMpK" name="Architecture Interne ">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="771" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="Nl25wbSfTAZSZIegSSTI-0" />
         <mxCell id="Nl25wbSfTAZSZIegSSTI-1" parent="Nl25wbSfTAZSZIegSSTI-0" />
@@ -445,7 +445,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QacrWY_tji1tmxMwG0Bq" name="Exigences Déplacement">
-    <mxGraphModel dx="2591" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2591" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="IzHO0HgB323rQ9JFdvtW-0" />
         <mxCell id="IzHO0HgB323rQ9JFdvtW-1" parent="IzHO0HgB323rQ9JFdvtW-0" />
@@ -651,7 +651,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="06nAVEA6Bb3VOtIV1wbn" name="Exigences adhérence">
-    <mxGraphModel dx="3903" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="j4vlryZKOXLqOIJe3Hs4-0" />
         <mxCell id="j4vlryZKOXLqOIJe3Hs4-1" parent="j4vlryZKOXLqOIJe3Hs4-0" />
@@ -797,7 +797,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bGFqLtuNRBZBadt0Yupy" name="Use case adhérence">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="GRQcbA9fOfUqG-Gxjur5-0" />
         <mxCell id="GRQcbA9fOfUqG-Gxjur5-1" parent="GRQcbA9fOfUqG-Gxjur5-0" />
@@ -876,7 +876,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yUcQdMuzl9L-NrI9jAuS" name="Exigence communication">
-    <mxGraphModel dx="3076" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2692" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="oP4JhbajdV74xN4RPo3i-0" />
         <mxCell id="oP4JhbajdV74xN4RPo3i-1" parent="oP4JhbajdV74xN4RPo3i-0" />
@@ -889,7 +889,7 @@
         <mxCell id="oGIg0bfCWn916IOg2nhL-2" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Réception&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;des informations&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit recevoir des informations&quot;&lt;br&gt;Id=&quot;1.2&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#fff2cc;strokeColor=#000000;" parent="oP4JhbajdV74xN4RPo3i-1" vertex="1">
           <mxGeometry x="-710" y="272" width="260" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="oGIg0bfCWn916IOg2nhL-3" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Sécurité&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;du&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;système&lt;/b&gt;&lt;/span&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit faire des échange sécuriser&quot;&lt;br&gt;Id=&quot;1.3&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#fff2cc;strokeColor=#000000;" parent="oP4JhbajdV74xN4RPo3i-1" vertex="1">
+        <mxCell id="oGIg0bfCWn916IOg2nhL-3" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Sécurité&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;du&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;système&lt;/b&gt;&lt;/span&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit faire des échanges sécurisés&quot;&lt;br&gt;Id=&quot;1.3&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#fff2cc;strokeColor=#000000;" parent="oP4JhbajdV74xN4RPo3i-1" vertex="1">
           <mxGeometry x="-350" y="260" width="280" height="102" as="geometry" />
         </mxCell>
         <mxCell id="oGIg0bfCWn916IOg2nhL-4" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="oP4JhbajdV74xN4RPo3i-1" source="oGIg0bfCWn916IOg2nhL-5" target="oGIg0bfCWn916IOg2nhL-8" edge="1">
@@ -914,18 +914,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oGIg0bfCWn916IOg2nhL-8" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Emission&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;des information du&lt;/b&gt;&lt;p style=&quot;margin: 4px 0px 0px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;support&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;de pilotage&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px ; font-size: 11px&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;text-align: center&quot;&gt;à une distance&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;b&gt;suffisante&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-align: center&quot;&gt;&amp;nbsp;&lt;/b&gt;text=&quot;Le système doit être capable de émettre les information nécessaire à une distance de 100m&quot;&lt;br&gt;Id=&quot;1.1.1&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;" parent="oP4JhbajdV74xN4RPo3i-1" vertex="1">
-          <mxGeometry x="-1130" y="430" width="120" height="180" as="geometry" />
+          <mxGeometry x="-1130" y="430" width="120" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="oGIg0bfCWn916IOg2nhL-9" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Emmètre&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;a la base de donné&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit&amp;nbsp; être capable d&#39;emetre les information au serveur&quot;&lt;br&gt;Id=&quot;1.1.1.1&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;" parent="oP4JhbajdV74xN4RPo3i-1" vertex="1">
+        <mxCell id="oGIg0bfCWn916IOg2nhL-9" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Emettre&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;a la base de donnée&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit&amp;nbsp; être capable d&#39;emettre les informations au serveur&quot;&lt;br&gt;Id=&quot;1.1.1.1&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;" parent="oP4JhbajdV74xN4RPo3i-1" vertex="1">
           <mxGeometry x="-1030" y="660" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="oGIg0bfCWn916IOg2nhL-10" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Emmètre&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;à l&#39;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;environnement&lt;/b&gt;&lt;/span&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit pouvoir emmètre des information visuel sonore à son environnement&quot;&lt;br&gt;Id=&quot;1.1.2&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;" parent="oP4JhbajdV74xN4RPo3i-1" vertex="1">
+        <mxCell id="oGIg0bfCWn916IOg2nhL-10" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Emettre&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;à l&#39;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;environnement&lt;/b&gt;&lt;/span&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit pouvoir emmètre des information visuel sonore à son environnement&quot;&lt;br&gt;Id=&quot;1.1.2&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;" parent="oP4JhbajdV74xN4RPo3i-1" vertex="1">
           <mxGeometry x="-900" y="430" width="120" height="170" as="geometry" />
         </mxCell>
         <mxCell id="oGIg0bfCWn916IOg2nhL-11" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Réception des information du&lt;/b&gt;&lt;/span&gt;&lt;p style=&quot;margin: 4px 0px 0px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;support&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;de pilotage&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px ; font-size: 11px&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;à une distance &lt;/b&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;suffisante&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit être capable de recevoir les information nécessaire à une distance de 100m&quot;&lt;br&gt;Id=&quot;1.2.1&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;" parent="oP4JhbajdV74xN4RPo3i-1" vertex="1">
           <mxGeometry x="-720" y="430" width="120" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="oGIg0bfCWn916IOg2nhL-13" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Reception des information traiter de la base de donné&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit être capable de recevoir les information traité au serveur&quot;&lt;br&gt;Id=&quot;1.2.1.1&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;" parent="oP4JhbajdV74xN4RPo3i-1" vertex="1">
+        <mxCell id="oGIg0bfCWn916IOg2nhL-13" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Reception des informations traitées de la base de donnée&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit être capable de recevoir les informations traitées, au serveur&quot;&lt;br&gt;Id=&quot;1.2.1.1&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;" parent="oP4JhbajdV74xN4RPo3i-1" vertex="1">
           <mxGeometry x="-560" y="670" width="130" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oGIg0bfCWn916IOg2nhL-14" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;font&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Réception&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;des information des capteur&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit récupérer les informations de capteurs&quot;&lt;br&gt;Id=&quot;1.2.2&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;" parent="oP4JhbajdV74xN4RPo3i-1" vertex="1">
@@ -966,11 +966,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oGIg0bfCWn916IOg2nhL-20" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;échange&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;exclusive Hexapode et le&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;support&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;de pilotage&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit échanger de manière sécuriser et exclusive entre l&#39;&lt;span style=&quot;text-align: center&quot;&gt;Hexapode&amp;nbsp;et le&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;support&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;&amp;nbsp;de pilotage&lt;/span&gt;&quot;&lt;br&gt;Id=&quot;1.3.1&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;" parent="oP4JhbajdV74xN4RPo3i-1" vertex="1">
+        <mxCell id="oGIg0bfCWn916IOg2nhL-20" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;échange&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;exclusif Hexapode et&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;support&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;de pilotage&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit échanger de manière sécurisée et exclusive entre l&#39;&lt;span style=&quot;text-align: center&quot;&gt;Hexapode&amp;nbsp;et le&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;support&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;&amp;nbsp;de pilotage&lt;/span&gt;&quot;&lt;br&gt;Id=&quot;1.3.1&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;" parent="oP4JhbajdV74xN4RPo3i-1" vertex="1">
           <mxGeometry x="-360" y="425" width="120" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="oGIg0bfCWn916IOg2nhL-22" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;b&gt;échange securiser entre le&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;support&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;de pilotage et la base de donné&lt;/b&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit&amp;nbsp;&lt;/font&gt;&lt;b style=&quot;text-align: center&quot;&gt;échange securiser entre le&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;b&gt;support&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-align: center&quot;&gt;&amp;nbsp;de pilotage et la base de donné&lt;/b&gt;&quot;&lt;br&gt;Id=&quot;1.3.2&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;strokeColor=#000000;" parent="oP4JhbajdV74xN4RPo3i-1" vertex="1">
-          <mxGeometry x="-150" y="427.5" width="120" height="175" as="geometry" />
+        <mxCell id="oGIg0bfCWn916IOg2nhL-22" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;b&gt;échange securisé entre le&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;support&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;de pilotage et la base de donnée&lt;/b&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit&amp;nbsp;&lt;/font&gt;&lt;b style=&quot;text-align: center&quot;&gt;échanger de manière securisée entre le&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;b&gt;support&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-align: center&quot;&gt;&amp;nbsp;de pilotage et la base de donnée&lt;/b&gt;&quot;&lt;br&gt;Id=&quot;1.3.2&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;strokeColor=#000000;" parent="oP4JhbajdV74xN4RPo3i-1" vertex="1">
+          <mxGeometry x="-160" y="425" width="120" height="195" as="geometry" />
         </mxCell>
         <mxCell id="oGIg0bfCWn916IOg2nhL-23" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="oP4JhbajdV74xN4RPo3i-1" source="oGIg0bfCWn916IOg2nhL-3" target="oGIg0bfCWn916IOg2nhL-22" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1033,7 +1033,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D_9t3xumMRppzpQeDuHC-2" value="" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.117;entryDx=0;entryDy=0;entryPerimeter=0;" parent="oP4JhbajdV74xN4RPo3i-1" source="oGIg0bfCWn916IOg2nhL-8" edge="1" target="oGIg0bfCWn916IOg2nhL-9">
+        <mxCell id="D_9t3xumMRppzpQeDuHC-2" value="" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.117;entryDx=0;entryDy=0;entryPerimeter=0;" parent="oP4JhbajdV74xN4RPo3i-1" source="oGIg0bfCWn916IOg2nhL-8" target="oGIg0bfCWn916IOg2nhL-9" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-1170" y="660" as="sourcePoint" />
             <mxPoint x="-1010" y="660" as="targetPoint" />
@@ -1042,7 +1042,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wSkk-zs8hjX4NXmyFXEl-0" value="" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="oP4JhbajdV74xN4RPo3i-1" source="oGIg0bfCWn916IOg2nhL-11" target="oGIg0bfCWn916IOg2nhL-13">
+        <mxCell id="wSkk-zs8hjX4NXmyFXEl-0" value="" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="oP4JhbajdV74xN4RPo3i-1" source="oGIg0bfCWn916IOg2nhL-11" target="oGIg0bfCWn916IOg2nhL-13" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-709.04" y="680" as="sourcePoint" />
             <mxPoint x="-660" y="731.06" as="targetPoint" />
@@ -1055,24 +1055,24 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ep9a3z1Tgew6e2Vu6l67" name="USE case comunication">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Rm2XjSsSx-hy181TTzCp-0" />
         <mxCell id="Rm2XjSsSx-hy181TTzCp-1" parent="Rm2XjSsSx-hy181TTzCp-0" />
-        <mxCell id="sWGJn4v-b_Umb55HeoDn-0" value="Hexapode" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;" parent="Rm2XjSsSx-hy181TTzCp-1" vertex="1">
+        <mxCell id="sWGJn4v-b_Umb55HeoDn-0" value="Hexapode" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;" vertex="1" parent="Rm2XjSsSx-hy181TTzCp-1">
           <mxGeometry x="130" y="30" width="920" height="720" as="geometry" />
         </mxCell>
-        <mxCell id="sWGJn4v-b_Umb55HeoDn-1" value="Opérateur" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="Rm2XjSsSx-hy181TTzCp-1" vertex="1">
+        <mxCell id="sWGJn4v-b_Umb55HeoDn-1" value="Opérateur" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="Rm2XjSsSx-hy181TTzCp-1">
           <mxGeometry x="20" y="360" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sWGJn4v-b_Umb55HeoDn-4" value="PC et manette" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="Rm2XjSsSx-hy181TTzCp-1" vertex="1">
+        <mxCell id="sWGJn4v-b_Umb55HeoDn-4" value="PC et manette" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="Rm2XjSsSx-hy181TTzCp-1">
           <mxGeometry x="80" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="vcQ1z5H1LSXHvnJJjfSx" name="Exigences gestion de l&#39;autonomie">
-    <mxGraphModel dx="2591" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="PRiBVkdHzEgUFiVw83NB-0" />
         <mxCell id="PRiBVkdHzEgUFiVw83NB-1" parent="PRiBVkdHzEgUFiVw83NB-0" />
@@ -1251,7 +1251,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EzqARt7w-hqH8xSZh1Oj" name="Exigences Maintenance">
-    <mxGraphModel dx="2839" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="oXlPmU3Mrhx2zz2UdDyv-0" />
         <mxCell id="oXlPmU3Mrhx2zz2UdDyv-1" parent="oXlPmU3Mrhx2zz2UdDyv-0" />
@@ -1376,7 +1376,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jkXCG8DDEFn7mUUxCEIp" name="Use Case Gestion de l&#39;autonomie">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="9JyshwWv-mHhqSfC9A_L-0" />
         <mxCell id="9JyshwWv-mHhqSfC9A_L-1" parent="9JyshwWv-mHhqSfC9A_L-0" />
