@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T14:36:54.180Z" agent="5.0 (Windows)" etag="5CR0kXoELbC8ySHVCMV1" version="17.1.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-03-11T14:37:04.749Z" agent="5.0 (Windows)" etag="ftNUITSnFSorxFIDTHti" version="17.1.2" type="github" pages="12">
   <diagram id="Hh7kF4fS-FXk80I3GIZw" name="Finalités et missions">
     <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -651,7 +651,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="06nAVEA6Bb3VOtIV1wbn" name="Exigences adhérence">
-    <mxGraphModel dx="3903" dy="1949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="j4vlryZKOXLqOIJe3Hs4-0" />
         <mxCell id="j4vlryZKOXLqOIJe3Hs4-1" parent="j4vlryZKOXLqOIJe3Hs4-0" />
@@ -797,7 +797,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bGFqLtuNRBZBadt0Yupy" name="Use case adhérence">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="GRQcbA9fOfUqG-Gxjur5-0" />
         <mxCell id="GRQcbA9fOfUqG-Gxjur5-1" parent="GRQcbA9fOfUqG-Gxjur5-0" />
@@ -855,21 +855,6 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="635" y="490" as="sourcePoint" />
             <mxPoint x="795" y="490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vuiqrCW8x6wJDukLIjrP-0" value="Arrêt sur place du système" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="GRQcbA9fOfUqG-Gxjur5-1">
-          <mxGeometry x="200" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NfEgIJ74GQFdPC2OO7jc-0" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;" edge="1" parent="GRQcbA9fOfUqG-Gxjur5-1" source="vuiqrCW8x6wJDukLIjrP-0" target="ku004qmqqKwUcWxV6kf0-4">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="450" y="390" as="sourcePoint" />
-            <mxPoint x="610" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NfEgIJ74GQFdPC2OO7jc-1" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;" edge="1" parent="GRQcbA9fOfUqG-Gxjur5-1" target="vuiqrCW8x6wJDukLIjrP-0">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="70" y="380" as="sourcePoint" />
-            <mxPoint x="610" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
