@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T12:15:55.875Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="j7W7SN04jBTD9lQcrzgQ" version="17.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-03-11T12:16:21.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="rd7M2hprGeK4GH2K5cOE" version="17.1.1" type="github" pages="7">
   <diagram id="Hh7kF4fS-FXk80I3GIZw" name="Finalités et missions">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -659,10 +659,16 @@
           <mxGeometry x="-1460" y="20" width="1120" height="780" as="geometry" />
         </mxCell>
         <mxCell id="vU0jYl4ESB7AIvXmYRRR-0" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Adhérer&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit adhérer à la surface&quot;&lt;br&gt;Id=&quot;1&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="j4vlryZKOXLqOIJe3Hs4-1">
-          <mxGeometry x="-680" y="190" width="200" height="100" as="geometry" />
+          <mxGeometry x="-1040" y="150" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="L-miaAg24-FvBCsglQU6-0" value="&lt;p style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Hexapod&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="j4vlryZKOXLqOIJe3Hs4-1">
           <mxGeometry x="-1020" y="50" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Iwz8PUprFIEcvl5H-nMM-0" value="" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="j4vlryZKOXLqOIJe3Hs4-1" source="L-miaAg24-FvBCsglQU6-0" target="vU0jYl4ESB7AIvXmYRRR-0">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-580" y="110" as="sourcePoint" />
+            <mxPoint x="-580" y="140" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
