@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T14:23:58.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="2iZyzpTJoS5oHQBwA1xU" version="17.1.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-03-11T14:24:55.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="itWa8OJQrVfjoCy3a6EZ" version="17.1.1" type="github" pages="12">
   <diagram id="Hh7kF4fS-FXk80I3GIZw" name="Finalités et missions">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1166,7 +1166,7 @@
           <mxGeometry x="450" y="414" width="120" height="170" as="geometry" />
         </mxCell>
         <mxCell id="P1L-5pEQMVqUwLw-VTTZ-13" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;calculer la consommation de &lt;/b&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;chaque&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;composants&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit être capable de calculer la consommation de chaque composant et ainsi la consommation globale&quot;&lt;br&gt;Id=&quot;1.2.3&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;" parent="PRiBVkdHzEgUFiVw83NB-1" vertex="1">
-          <mxGeometry x="450" y="660" width="120" height="190" as="geometry" />
+          <mxGeometry x="370" y="680" width="120" height="190" as="geometry" />
         </mxCell>
         <mxCell id="P1L-5pEQMVqUwLw-VTTZ-16" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="PRiBVkdHzEgUFiVw83NB-1" source="P1L-5pEQMVqUwLw-VTTZ-1" target="P1L-5pEQMVqUwLw-VTTZ-10" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1261,13 +1261,17 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A2-ZuplzaScQ2Mhg8ybo-0" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;informer l&#39;opérateur du niveau d&#39;énergie&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit informer l&#39;opérateur de son niveau d&#39;énergie en mode manuel&quot;&lt;br&gt;Id=&quot;1.4&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;" parent="PRiBVkdHzEgUFiVw83NB-1" vertex="1">
-          <mxGeometry x="600" y="600" width="130" height="130" as="geometry" />
+          <mxGeometry x="580" y="600" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="A2-ZuplzaScQ2Mhg8ybo-1" value="&amp;lt;&amp;lt;deriveReqt&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;endSize=12;dashed=1;verticalAlign=bottom;rounded=0;fontSize=11;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="PRiBVkdHzEgUFiVw83NB-1" source="A2-ZuplzaScQ2Mhg8ybo-0" edge="1">
           <mxGeometry x="0.6151" y="-28" width="160" relative="1" as="geometry">
             <mxPoint x="535" y="780" as="sourcePoint" />
             <mxPoint x="580" y="342" as="targetPoint" />
             <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="640" y="410" />
+              <mxPoint x="580" y="410" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ml5Uw-Px633kgQUf9wVT-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="PRiBVkdHzEgUFiVw83NB-1" source="A2-ZuplzaScQ2Mhg8ybo-0" target="A2-ZuplzaScQ2Mhg8ybo-0">
@@ -1280,13 +1284,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ml5Uw-Px633kgQUf9wVT-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Mettre le niveau d&#39;énergie sous une forme pratique pour l&#39;opérateur&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Le système doit mettre le niveau d&#39;énergie sous forme de pourcentage&quot;&lt;br&gt;Id=&quot;1.4.1&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="PRiBVkdHzEgUFiVw83NB-1">
-          <mxGeometry x="580" y="770" width="200" height="150" as="geometry" />
+          <mxGeometry x="545" y="800" width="200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="F2jHSjYP293qfnDbmOF8-0" value="&amp;lt;&amp;lt;deriveReqt&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;endSize=12;dashed=1;verticalAlign=bottom;rounded=0;fontSize=11;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="PRiBVkdHzEgUFiVw83NB-1" source="P1L-5pEQMVqUwLw-VTTZ-13" target="P1L-5pEQMVqUwLw-VTTZ-12">
-          <mxGeometry x="0.0877" y="-30" width="160" relative="1" as="geometry">
+          <mxGeometry x="-0.0909" width="160" relative="1" as="geometry">
             <mxPoint x="305" y="758" as="sourcePoint" />
             <mxPoint x="220" y="500" as="targetPoint" />
             <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="430" y="640" />
+              <mxPoint x="510" y="640" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="F2jHSjYP293qfnDbmOF8-3" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="PRiBVkdHzEgUFiVw83NB-1" source="P1L-5pEQMVqUwLw-VTTZ-1" target="F2jHSjYP293qfnDbmOF8-4">
@@ -1294,7 +1302,7 @@
             <mxPoint x="450" y="350" as="sourcePoint" />
             <mxPoint x="240" y="428" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="228" y="388" />
+              <mxPoint x="350" y="370" />
               <mxPoint x="168" y="398" />
               <mxPoint x="183" y="398" />
               <mxPoint x="173" y="398" />
