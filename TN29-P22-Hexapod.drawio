@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T14:26:29.313Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="kQSWQQNPclhYfegN81a5" version="17.1.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-03-11T14:26:40.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="R2j3z1c1O2B49zPLRgGr" version="17.1.1" type="github" pages="12">
   <diagram id="Hh7kF4fS-FXk80I3GIZw" name="Finalités et missions">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1269,7 +1269,7 @@
             <mxPoint x="580" y="342" as="targetPoint" />
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="640" y="410" />
+              <mxPoint x="645" y="410" />
               <mxPoint x="580" y="410" />
             </Array>
           </mxGeometry>
