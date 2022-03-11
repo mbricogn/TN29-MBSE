@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T14:32:05.410Z" agent="5.0 (Windows)" etag="3OgEzDmjeR_QN8XPyLzu" version="17.1.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-03-11T14:35:29.268Z" agent="5.0 (Windows)" etag="jN3rg0y_CzeM1__AwQ7n" version="17.1.1" type="github" pages="12">
   <diagram id="Hh7kF4fS-FXk80I3GIZw" name="Finalités et missions">
     <mxGraphModel dx="1423" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1119,7 +1119,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vcQ1z5H1LSXHvnJJjfSx" name="Exigences gestion de l&#39;autonomie">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2592" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="PRiBVkdHzEgUFiVw83NB-0" />
         <mxCell id="PRiBVkdHzEgUFiVw83NB-1" parent="PRiBVkdHzEgUFiVw83NB-0" />
@@ -1317,33 +1317,33 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jkXCG8DDEFn7mUUxCEIp" name="Use Case Gestion de l&#39;autonomie">
-    <mxGraphModel dx="1423" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1423" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="9JyshwWv-mHhqSfC9A_L-0" />
         <mxCell id="9JyshwWv-mHhqSfC9A_L-1" parent="9JyshwWv-mHhqSfC9A_L-0" />
         <mxCell id="qFSENUZ4EXoli7oLT_mk-0" value="Hexapode" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;strokeWidth=1;" vertex="1" parent="9JyshwWv-mHhqSfC9A_L-1">
-          <mxGeometry x="150" y="29" width="1000" height="770" as="geometry" />
+          <mxGeometry x="150" y="20" width="670" height="770" as="geometry" />
         </mxCell>
         <mxCell id="qFSENUZ4EXoli7oLT_mk-1" value="Préparer l&#39;itinéraire" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="9JyshwWv-mHhqSfC9A_L-1">
-          <mxGeometry x="300" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qFSENUZ4EXoli7oLT_mk-3" value="Opérateur" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeWidth=1;" vertex="1" parent="9JyshwWv-mHhqSfC9A_L-1">
           <mxGeometry x="30" y="580" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qFSENUZ4EXoli7oLT_mk-5" value="Estimer l&#39;énergie nécessaire pour l&#39;itinéraire" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="9JyshwWv-mHhqSfC9A_L-1">
-          <mxGeometry x="550" y="280" width="150" height="60" as="geometry" />
+          <mxGeometry x="570" y="160" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qFSENUZ4EXoli7oLT_mk-7" value="Réaliser l&#39;itinéraire" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="9JyshwWv-mHhqSfC9A_L-1">
-          <mxGeometry x="220" y="580" width="160" height="60" as="geometry" />
+          <mxGeometry x="170" y="570" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qFSENUZ4EXoli7oLT_mk-8" value="Se déplacer jusqu&#39;à la base de rechargement et se recharger" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="9JyshwWv-mHhqSfC9A_L-1">
-          <mxGeometry x="770" y="440" width="160" height="70" as="geometry" />
+          <mxGeometry x="530" y="530" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="b6TtwvhsIXiCAr-KG2iB-0" value="Estimer l&#39;état d&#39;énergie actuel" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="9JyshwWv-mHhqSfC9A_L-1">
-          <mxGeometry x="510" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M1eS3etYzjndDx_eOfLb-1" value="Informer l&#39;opérateur du niveau d&#39;énergie" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="9JyshwWv-mHhqSfC9A_L-1">
-          <mxGeometry x="525" y="600" width="160" height="80" as="geometry" />
+          <mxGeometry x="410" y="660" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="M1eS3etYzjndDx_eOfLb-17" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;strokeColor=#000000;strokeWidth=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="9JyshwWv-mHhqSfC9A_L-1" source="qFSENUZ4EXoli7oLT_mk-8" target="M1eS3etYzjndDx_eOfLb-1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -1363,7 +1363,7 @@
             <mxPoint x="590" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gNBWK1zZmZ0r1NmqOAiN-2" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;strokeColor=#000000;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="9JyshwWv-mHhqSfC9A_L-1" source="qFSENUZ4EXoli7oLT_mk-7" target="M1eS3etYzjndDx_eOfLb-1">
+        <mxCell id="gNBWK1zZmZ0r1NmqOAiN-2" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;strokeColor=#000000;strokeWidth=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="9JyshwWv-mHhqSfC9A_L-1" source="qFSENUZ4EXoli7oLT_mk-7" target="M1eS3etYzjndDx_eOfLb-1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="430" y="400" as="sourcePoint" />
             <mxPoint x="590" y="400" as="targetPoint" />
@@ -1375,14 +1375,20 @@
             <mxPoint x="590" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0_Khax-mgg6Og6fL6b4u-1" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;strokeColor=#000000;strokeWidth=1;entryX=0.053;entryY=0.733;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="9JyshwWv-mHhqSfC9A_L-1" source="qFSENUZ4EXoli7oLT_mk-1" target="qFSENUZ4EXoli7oLT_mk-5">
+        <mxCell id="0_Khax-mgg6Og6fL6b4u-1" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;strokeColor=#000000;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="9JyshwWv-mHhqSfC9A_L-1" source="qFSENUZ4EXoli7oLT_mk-1" target="qFSENUZ4EXoli7oLT_mk-5">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="430" y="400" as="sourcePoint" />
             <mxPoint x="590" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0_Khax-mgg6Og6fL6b4u-2" value="" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="9JyshwWv-mHhqSfC9A_L-1">
-          <mxGeometry x="850" y="320" width="160" height="70" as="geometry" />
+        <mxCell id="0_Khax-mgg6Og6fL6b4u-2" value="Informer l&#39;opérateur de la fin du chargement" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="9JyshwWv-mHhqSfC9A_L-1">
+          <mxGeometry x="620" y="360" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3PRDig-hZEj0ieYXsmMl-0" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;strokeColor=#000000;strokeWidth=1;entryX=0.381;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="9JyshwWv-mHhqSfC9A_L-1" source="qFSENUZ4EXoli7oLT_mk-8" target="0_Khax-mgg6Og6fL6b4u-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="430" y="400" as="sourcePoint" />
+            <mxPoint x="590" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
