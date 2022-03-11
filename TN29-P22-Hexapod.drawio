@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T12:54:53.159Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="p0_nLfynsub6zvr2d0n3" version="17.1.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-03-11T12:55:43.396Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="FWBDegFA-k9IShf-Ry5u" version="17.1.1" type="github" pages="8">
   <diagram id="Hh7kF4fS-FXk80I3GIZw" name="Finalités et missions">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -895,12 +895,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vcQ1z5H1LSXHvnJJjfSx" name="Exigences gestion de l&#39;autonomie">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2591" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="PRiBVkdHzEgUFiVw83NB-0" />
         <mxCell id="PRiBVkdHzEgUFiVw83NB-1" parent="PRiBVkdHzEgUFiVw83NB-0" />
         <mxCell id="ne9gsgzv8aJHHbjDl_pJ-0" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 7px ; text-align: left&quot;&gt;&lt;b&gt;req&lt;/b&gt;  Gestion de l&#39;autonomie&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=166;strokeWidth=2;align=center;flipH=0;flipV=0;" vertex="1" parent="PRiBVkdHzEgUFiVw83NB-1">
-          <mxGeometry x="-140" y="30" width="1160" height="780" as="geometry" />
+          <mxGeometry x="-140" y="24" width="1160" height="780" as="geometry" />
         </mxCell>
         <mxCell id="P1L-5pEQMVqUwLw-VTTZ-0" value="&lt;p style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Hexapod&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="PRiBVkdHzEgUFiVw83NB-1">
           <mxGeometry x="370" y="40" width="160" height="40" as="geometry" />
@@ -1008,7 +1008,7 @@
         <mxCell id="P1L-5pEQMVqUwLw-VTTZ-19" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;b&gt;distribuer l&#39;énergie&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;&quot;intelligemment&quot;&lt;/b&gt;&lt;/span&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit distribuer exclusivement de l&#39;énergie au composant nécessaire au fonctionnement sur l&#39;instant&quot;&lt;br&gt;Id=&quot;1.3.1&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;" vertex="1" parent="PRiBVkdHzEgUFiVw83NB-1">
           <mxGeometry x="660" y="405" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="P1L-5pEQMVqUwLw-VTTZ-20" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;optimiser la consommation d&#39;énergie&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit transmettre les informations de pilotage à l&#39;opérateur&quot;&lt;br&gt;Id=&quot;1.3.3&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;strokeColor=#000000;" vertex="1" parent="PRiBVkdHzEgUFiVw83NB-1">
+        <mxCell id="P1L-5pEQMVqUwLw-VTTZ-20" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;optimiser la consommation d&#39;énergie&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;optimiser sa consommation d&#39;énergie&quot;&lt;br&gt;Id=&quot;1.3.3&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;strokeColor=#000000;" vertex="1" parent="PRiBVkdHzEgUFiVw83NB-1">
           <mxGeometry x="860" y="410" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="P1L-5pEQMVqUwLw-VTTZ-21" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;b&gt;Executer les instructions&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit exécuter le instructions reçues&quot;&lt;br&gt;Id=&quot;1.3.2&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;strokeColor=#000000;" vertex="1" parent="PRiBVkdHzEgUFiVw83NB-1">
@@ -1089,6 +1089,16 @@
         </mxCell>
         <mxCell id="t653EOxPALoRumfIMJbX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.795;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="PRiBVkdHzEgUFiVw83NB-1" source="P1L-5pEQMVqUwLw-VTTZ-5" target="P1L-5pEQMVqUwLw-VTTZ-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A2-ZuplzaScQ2Mhg8ybo-0" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;informer l&#39;opérateur du niveau d&#39;énergie&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;Le système doit informer l&#39;opérateur de son niveau d&#39;énergie en mode manuel&quot;&lt;br&gt;Id=&quot;1.4&quot;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;" vertex="1" parent="PRiBVkdHzEgUFiVw83NB-1">
+          <mxGeometry x="570" y="630" width="130" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="A2-ZuplzaScQ2Mhg8ybo-1" value="&amp;lt;&amp;lt;deriveReqt&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;endSize=12;dashed=1;verticalAlign=bottom;rounded=0;fontSize=11;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="PRiBVkdHzEgUFiVw83NB-1" source="A2-ZuplzaScQ2Mhg8ybo-0">
+          <mxGeometry x="-0.5991" y="-2" width="160" relative="1" as="geometry">
+            <mxPoint x="535" y="780" as="sourcePoint" />
+            <mxPoint x="580" y="342" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
