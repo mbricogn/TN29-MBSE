@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T14:35:29.268Z" agent="5.0 (Windows)" etag="jN3rg0y_CzeM1__AwQ7n" version="17.1.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-03-11T14:35:36.476Z" agent="5.0 (Windows)" etag="sekHBSLiVl6ErFTmKDjA" version="17.1.1" type="github" pages="12">
   <diagram id="Hh7kF4fS-FXk80I3GIZw" name="Finalités et missions">
     <mxGraphModel dx="1423" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1328,7 +1328,7 @@
           <mxGeometry x="230" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qFSENUZ4EXoli7oLT_mk-3" value="Opérateur" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeWidth=1;" vertex="1" parent="9JyshwWv-mHhqSfC9A_L-1">
-          <mxGeometry x="30" y="580" width="30" height="60" as="geometry" />
+          <mxGeometry x="30" y="570" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qFSENUZ4EXoli7oLT_mk-5" value="Estimer l&#39;énergie nécessaire pour l&#39;itinéraire" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="9JyshwWv-mHhqSfC9A_L-1">
           <mxGeometry x="570" y="160" width="150" height="60" as="geometry" />
