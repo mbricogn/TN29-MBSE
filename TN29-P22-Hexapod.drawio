@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T12:46:42.659Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="wj571nW1G257wyexcbm7" version="17.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-03-11T12:47:39.597Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="RKxDog_LsglYiYbSgLOF" version="17.1.1" type="github" pages="7">
   <diagram id="Hh7kF4fS-FXk80I3GIZw" name="Finalités et missions">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -672,6 +672,9 @@
         </mxCell>
         <mxCell id="a9Xaodv-tF2eRFg_zw2L-1" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;S&#39;adapter à l&#39;orientation de la surface&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot; Le système doit se déplacer sur une surface complexe orientée dans les 3 dimensions&quot;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;id=&quot;1.1.2&quot;&lt;/font&gt;&lt;/p&gt;&lt;span style=&quot;font-size: 11px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;" vertex="1" parent="j4vlryZKOXLqOIJe3Hs4-1">
           <mxGeometry x="-1270" y="430" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="sUJZTiUksJKHg8ICL-C5-0" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;S&#39;adapter à différents matériaux&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot; Le système doit s&#39;adapter à différents matériaux&quot;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;id=&quot;1.1.1&quot;&lt;/font&gt;&lt;/p&gt;&lt;span style=&quot;font-size: 11px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;" vertex="1" parent="j4vlryZKOXLqOIJe3Hs4-1">
+          <mxGeometry x="-1440" y="430" width="120" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
