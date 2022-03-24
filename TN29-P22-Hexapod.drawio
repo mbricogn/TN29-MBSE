@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LnJoH1OPp0uSo5Zn9Vst-3" value="Finalité" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+        <mxCell id="LnJoH1OPp0uSo5Zn9Vst-3" value="Finalité - Exemple pour Maxime" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="90" width="200" height="170" as="geometry" />
         </mxCell>
         <mxCell id="LnJoH1OPp0uSo5Zn9Vst-4" value="Inspecter une structure 3D selon 2 modes de fonctionnement (autonome ou &#xa;manuel) en s’adaptant à son environnement de manière sécurisée" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" parent="LnJoH1OPp0uSo5Zn9Vst-3" vertex="1">
