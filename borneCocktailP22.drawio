@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T13:35:57.966Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="r2siQ1EjKf_kJdhD3g-J" version="17.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-08T14:00:21.600Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="JfcVLvflb-b4Oa5jdjO7" version="17.4.1" type="github" pages="2">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 08/04">
     <mxGraphModel dx="788" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -19,14 +19,14 @@
         <mxCell id="sRPzREbq-Nrje1x9UGNM-9" value="Mission 2" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="280" width="170" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="sRPzREbq-Nrje1x9UGNM-10" value="Stocker (et conserver/rinçage) les ingrédients &#xa;assurer approvisionnement pour une soirée complète" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="sRPzREbq-Nrje1x9UGNM-9">
+        <mxCell id="sRPzREbq-Nrje1x9UGNM-10" value="Stocker pour &#xa;assurer l&#39;approvisionnement pour un temps déterminé" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="sRPzREbq-Nrje1x9UGNM-9">
           <mxGeometry y="30" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sRPzREbq-Nrje1x9UGNM-15" value="Mission 3" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="280" width="160" height="120" as="geometry" />
+          <mxGeometry x="590" y="280" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="sRPzREbq-Nrje1x9UGNM-16" value="Permettre un échange d&#39;informations avec/entre utilisateur (partage, réseau social entre utilisateurs) / interagir avec la communauté" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="sRPzREbq-Nrje1x9UGNM-15">
-          <mxGeometry y="30" width="160" height="90" as="geometry" />
+        <mxCell id="sRPzREbq-Nrje1x9UGNM-16" value="Développer un réseau entre les utilisateurs" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="sRPzREbq-Nrje1x9UGNM-15">
+          <mxGeometry y="30" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QOWK-r0JArPbXf0g2ca--1" value="Mission 4" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="780" y="280" width="150" height="90" as="geometry" />
@@ -79,7 +79,7 @@
         <mxCell id="UqVfPTxF4fjXLXs7qaGI-1" value="Cocktail.me" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="249" width="210" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Oo9BH8QjuI-w8GSNunJo-18" value="Hygiène&lt;br&gt;&amp;nbsp;Sécurité&lt;br&gt;Connectivité&lt;br&gt;Réapprovisionnement&lt;br&gt;Application&lt;br&gt;Moyen de paiement&lt;br&gt;Récipient&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UqVfPTxF4fjXLXs7qaGI-1">
+        <mxCell id="Oo9BH8QjuI-w8GSNunJo-18" value="Borne&amp;nbsp;&lt;br&gt;Application&lt;br&gt;Moyen de paiement&lt;br&gt;Récipient&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UqVfPTxF4fjXLXs7qaGI-1">
           <mxGeometry y="26" width="210" height="104" as="geometry" />
         </mxCell>
         <mxCell id="UqVfPTxF4fjXLXs7qaGI-3" value="Utilisateur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
