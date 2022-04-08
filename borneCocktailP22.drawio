@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T13:17:04.044Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="0Vj9BoP5slZDal0Pu88K" version="17.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-08T13:19:01.768Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="McTdDjzKOCOmFtR2uTTy" version="17.4.1" type="github" pages="2">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 08/04">
     <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -23,15 +23,15 @@
           <mxGeometry y="30" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sRPzREbq-Nrje1x9UGNM-15" value="Mission 3" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="280" width="160" height="90" as="geometry" />
+          <mxGeometry x="590" y="280" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="sRPzREbq-Nrje1x9UGNM-16" value="Permettre un échange d&#39;informations avec/entre utilisateur (partage, réseau social entre utilisateurs)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="sRPzREbq-Nrje1x9UGNM-15">
-          <mxGeometry y="30" width="160" height="60" as="geometry" />
+        <mxCell id="sRPzREbq-Nrje1x9UGNM-16" value="Permettre un échange d&#39;informations avec/entre utilisateur (partage, réseau social entre utilisateurs) / interagir avec la communauté" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="sRPzREbq-Nrje1x9UGNM-15">
+          <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="QOWK-r0JArPbXf0g2ca--1" value="Mission 4" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="780" y="280" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="QOWK-r0JArPbXf0g2ca--2" value="Réaliser des échanges financières entre l&#39;utilisateur et la borne" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="QOWK-r0JArPbXf0g2ca--1">
+        <mxCell id="QOWK-r0JArPbXf0g2ca--2" value="S&#39;adapter à l&#39;environnement dans lequel on vend" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="QOWK-r0JArPbXf0g2ca--1">
           <mxGeometry y="30" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QOWK-r0JArPbXf0g2ca--3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.51;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="QOWK-r0JArPbXf0g2ca--1" target="sRPzREbq-Nrje1x9UGNM-4">
