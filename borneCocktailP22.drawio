@@ -1,51 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T12:35:14.558Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="8l0X_1VmR3yfAk42o3Dt" version="17.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-08T12:44:05.173Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="CNDYxRtux1IB6B3qken3" version="17.4.1" type="github" pages="2">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission">
     <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sRPzREbq-Nrje1x9UGNM-3" value="Finaliité" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+        <mxCell id="sRPzREbq-Nrje1x9UGNM-3" value="Finalité" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="90" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="sRPzREbq-Nrje1x9UGNM-4" value="Distribuer des boissons mélangées  sur place sur demande" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="sRPzREbq-Nrje1x9UGNM-3">
           <mxGeometry y="30" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="sRPzREbq-Nrje1x9UGNM-5" value="Mission 1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="280" width="150" height="90" as="geometry" />
+          <mxGeometry x="220" y="280" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="sRPzREbq-Nrje1x9UGNM-6" value="Réaliser des cocktails" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="sRPzREbq-Nrje1x9UGNM-5">
+        <mxCell id="sRPzREbq-Nrje1x9UGNM-6" value="Réaliser un mélange " style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="sRPzREbq-Nrje1x9UGNM-5">
           <mxGeometry y="30" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sRPzREbq-Nrje1x9UGNM-9" value="Mission 2" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="280" width="200" height="120" as="geometry" />
+          <mxGeometry x="400" y="280" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="sRPzREbq-Nrje1x9UGNM-10" value="Accepter différentes modalités de paiement : sur borne (espèces, carte bancaire, monnaie locale : Pay&#39;ut...), via l&#39;application" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="sRPzREbq-Nrje1x9UGNM-9">
-          <mxGeometry y="30" width="200" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="sRPzREbq-Nrje1x9UGNM-11" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="sRPzREbq-Nrje1x9UGNM-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="270" as="sourcePoint" />
-            <mxPoint x="570" y="220" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="355" y="240" />
-              <mxPoint x="410" y="240" />
-              <mxPoint x="570" y="240" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="sRPzREbq-Nrje1x9UGNM-10" value="Stocker et conserver les ingrédients " style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="sRPzREbq-Nrje1x9UGNM-9">
+          <mxGeometry y="30" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sRPzREbq-Nrje1x9UGNM-15" value="Mission 3" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="280" width="150" height="90" as="geometry" />
+          <mxGeometry x="600" y="280" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="sRPzREbq-Nrje1x9UGNM-16" value="Permettre un échange d&#39;informations avec l&#39;utilisateur" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="sRPzREbq-Nrje1x9UGNM-15">
           <mxGeometry y="30" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sRPzREbq-Nrje1x9UGNM-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="sRPzREbq-Nrje1x9UGNM-15">
+        <mxCell id="QOWK-r0JArPbXf0g2ca--1" value="Mission 3" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="280" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QOWK-r0JArPbXf0g2ca--2" value="Réaliser des échanges financières entre l&#39;utilisateur et la borne" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="QOWK-r0JArPbXf0g2ca--1">
+          <mxGeometry y="30" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOWK-r0JArPbXf0g2ca--3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.51;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="QOWK-r0JArPbXf0g2ca--1" target="sRPzREbq-Nrje1x9UGNM-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="240" as="sourcePoint" />
-            <mxPoint x="570" y="240" as="targetPoint" />
+            <mxPoint x="572" y="240" as="sourcePoint" />
+            <mxPoint x="610" y="330" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="775" y="240" />
+              <mxPoint x="855" y="250" />
+              <mxPoint x="572" y="250" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOWK-r0JArPbXf0g2ca--4" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="sRPzREbq-Nrje1x9UGNM-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="380" as="sourcePoint" />
+            <mxPoint x="580" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="485" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOWK-r0JArPbXf0g2ca--6" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="sRPzREbq-Nrje1x9UGNM-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="380" as="sourcePoint" />
+            <mxPoint x="500" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="295" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOWK-r0JArPbXf0g2ca--7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="sRPzREbq-Nrje1x9UGNM-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="675" y="250" as="sourcePoint" />
+            <mxPoint x="610" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
