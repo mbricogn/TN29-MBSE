@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T12:23:29.022Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="fFDdBKV29I-FR7l9Ag0f" version="17.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-08T12:28:01.642Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="VD5oHWjIakUYl_cx32uu" version="17.4.1" type="github" pages="2">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission">
     <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -11,15 +11,9 @@
           <mxGeometry y="30" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="sRPzREbq-Nrje1x9UGNM-5" value="Mission 1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="280" width="150" height="90" as="geometry" />
+          <mxGeometry x="170" y="280" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="sRPzREbq-Nrje1x9UGNM-6" value="Réaliser des cocktails" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="sRPzREbq-Nrje1x9UGNM-5">
-          <mxGeometry y="30" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sRPzREbq-Nrje1x9UGNM-7" value="Mission 2" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="280" width="150" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="sRPzREbq-Nrje1x9UGNM-8" value="être relié aux réseaux : eau, internet, électricité " style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="sRPzREbq-Nrje1x9UGNM-7">
           <mxGeometry y="30" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sRPzREbq-Nrje1x9UGNM-9" value="Mission 3" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
@@ -33,15 +27,9 @@
             <mxPoint x="410" y="270" as="sourcePoint" />
             <mxPoint x="470" y="240" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="95" y="240" />
+              <mxPoint x="245" y="240" />
               <mxPoint x="410" y="240" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sRPzREbq-Nrje1x9UGNM-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="sRPzREbq-Nrje1x9UGNM-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="420" as="sourcePoint" />
-            <mxPoint x="265" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sRPzREbq-Nrje1x9UGNM-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="sRPzREbq-Nrje1x9UGNM-9">
@@ -55,16 +43,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sRPzREbq-Nrje1x9UGNM-15" value="Mission 4" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="280" width="150" height="90" as="geometry" />
+          <mxGeometry x="600" y="280" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="sRPzREbq-Nrje1x9UGNM-16" value="être lié à l&#39;application" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="sRPzREbq-Nrje1x9UGNM-15">
+        <mxCell id="sRPzREbq-Nrje1x9UGNM-16" value="Permettre un échange d&#39;information avec l&#39;utilisateur" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="sRPzREbq-Nrje1x9UGNM-15">
           <mxGeometry y="30" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sRPzREbq-Nrje1x9UGNM-17" value="Mission " style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="780" y="280" width="150" height="90" as="geometry" />
+        <mxCell id="sRPzREbq-Nrje1x9UGNM-17" value="Mission 5" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="280" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="sRPzREbq-Nrje1x9UGNM-18" value="être relié aux réseaux : eau, internet, électricité " style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="sRPzREbq-Nrje1x9UGNM-17">
+        <mxCell id="sRPzREbq-Nrje1x9UGNM-18" value="s&#39;adapter aux différents récipients " style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="sRPzREbq-Nrje1x9UGNM-17">
           <mxGeometry y="30" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sRPzREbq-Nrje1x9UGNM-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="sRPzREbq-Nrje1x9UGNM-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="240" as="sourcePoint" />
+            <mxPoint x="570" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="675" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sRPzREbq-Nrje1x9UGNM-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="sRPzREbq-Nrje1x9UGNM-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="240" as="sourcePoint" />
+            <mxPoint x="890" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="875" y="240" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
