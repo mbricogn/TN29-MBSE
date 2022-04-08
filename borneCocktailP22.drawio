@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T13:20:59.541Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="vfntVo4pcn3zJynqz0st" version="17.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-08T13:23:03.754Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="TORd-aMgstokX4e47JpM" version="17.4.1" type="github" pages="2">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 08/04">
     <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
         <mxCell id="UqVfPTxF4fjXLXs7qaGI-1" value="Borne à cocktails" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="249" width="210" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Oo9BH8QjuI-w8GSNunJo-18" value="Hygiène&lt;br&gt;&amp;nbsp;Sécurité&lt;br&gt;Connectivité&lt;br&gt;Réapprovisionnement" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UqVfPTxF4fjXLXs7qaGI-1">
+        <mxCell id="Oo9BH8QjuI-w8GSNunJo-18" value="Hygiène&lt;br&gt;&amp;nbsp;Sécurité&lt;br&gt;Connectivité&lt;br&gt;Réapprovisionnement&lt;br&gt;Application" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UqVfPTxF4fjXLXs7qaGI-1">
           <mxGeometry y="26" width="210" height="104" as="geometry" />
         </mxCell>
         <mxCell id="UqVfPTxF4fjXLXs7qaGI-3" value="Utilisateur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
@@ -103,7 +103,7 @@
         <mxCell id="UqVfPTxF4fjXLXs7qaGI-7" value="Récipient vide" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="340" y="60" width="150" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="UqVfPTxF4fjXLXs7qaGI-8" value="source d&#39;énergie" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="UqVfPTxF4fjXLXs7qaGI-8" value="Source d&#39;énergie" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="710" y="130" width="150" height="92" as="geometry" />
         </mxCell>
         <mxCell id="UqVfPTxF4fjXLXs7qaGI-10" value="Matières premières" style="swimlane;" vertex="1" parent="1">
