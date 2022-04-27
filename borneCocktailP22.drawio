@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-27T14:25:55.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="5UKivhG6Y9PCZqMa5UIN" version="17.4.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-27T14:27:47.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="hZzRVIMOlvG8mXoTlFNz" version="17.4.6" type="github" pages="3">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 08/04">
     <mxGraphModel dx="925" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -101,7 +101,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UqVfPTxF4fjXLXs7qaGI-7" value="Récipient vide fourni &#xa;par l&#39;utilisateur" style="swimlane;startSize=40;" parent="1" vertex="1">
-          <mxGeometry x="360" y="42" width="150" height="110" as="geometry" />
+          <mxGeometry x="190" y="60" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="UqVfPTxF4fjXLXs7qaGI-8" value="Source d&#39;énergie" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="710" y="130" width="150" height="92" as="geometry" />
@@ -161,7 +161,7 @@
           <mxGeometry x="500" y="379" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UqVfPTxF4fjXLXs7qaGI-27" value="0..1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="420" y="150" width="60" height="30" as="geometry" />
+          <mxGeometry x="390" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UqVfPTxF4fjXLXs7qaGI-28" value="0..1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="219" width="60" height="30" as="geometry" />
@@ -242,9 +242,9 @@
           <mxGeometry x="830" y="270" width="150" height="92" as="geometry" />
         </mxCell>
         <mxCell id="9N_VmTcx_XpPACRNX_yA-3" value="Eaux usées" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="180" y="70" width="150" height="92" as="geometry" />
+          <mxGeometry x="370" y="38" width="150" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="9N_VmTcx_XpPACRNX_yA-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.11;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="UqVfPTxF4fjXLXs7qaGI-1" target="9N_VmTcx_XpPACRNX_yA-3" edge="1">
+        <mxCell id="9N_VmTcx_XpPACRNX_yA-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.11;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="UqVfPTxF4fjXLXs7qaGI-1" target="9N_VmTcx_XpPACRNX_yA-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="506.99" y="259" as="sourcePoint" />
             <mxPoint x="482.5" y="162" as="targetPoint" />
