@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T09:55:29.402Z" agent="5.0 (Windows)" etag="boFur5ZsG30e7Fw340wO" version="17.4.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-28T09:56:57.404Z" agent="5.0 (Windows)" etag="o19v6dxSCHinSrvk9KIV" version="17.4.6" type="github" pages="5">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 08/04">
     <mxGraphModel dx="1102" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -905,6 +905,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="530" as="sourcePoint" />
             <mxPoint x="30" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1eQKJBsjwFawgkT91mlf-3" value="" style="group;rotation=-90;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="910" y="477" width="20" height="21.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1eQKJBsjwFawgkT91mlf-4" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1eQKJBsjwFawgkT91mlf-3">
+          <mxGeometry width="20" height="21.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1eQKJBsjwFawgkT91mlf-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1eQKJBsjwFawgkT91mlf-3" source="1eQKJBsjwFawgkT91mlf-4" target="1eQKJBsjwFawgkT91mlf-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="91" y="61" as="sourcePoint" />
+            <mxPoint x="41" y="11" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1eQKJBsjwFawgkT91mlf-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="487" as="sourcePoint" />
+            <mxPoint x="700" y="487" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
