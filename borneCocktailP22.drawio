@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T10:04:43.907Z" agent="5.0 (Windows)" etag="b1VeQwifKjbfF-PuFOX5" version="17.4.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-28T10:05:08.454Z" agent="5.0 (Windows)" etag="RJDpRP30o7uQf0qmHapt" version="17.4.6" type="github" pages="5">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 08/04">
     <mxGraphModel dx="1102" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -553,18 +553,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-40" y="91.5" as="sourcePoint" />
             <mxPoint x="10" y="41.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fFavxp4S6fffXRpfxypL-1" value="" style="group;rotation=-90;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="630" y="319" width="20" height="21.5" as="geometry" />
-        </mxCell>
-        <mxCell id="fFavxp4S6fffXRpfxypL-2" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="fFavxp4S6fffXRpfxypL-1">
-          <mxGeometry width="20" height="21.5" as="geometry" />
-        </mxCell>
-        <mxCell id="fFavxp4S6fffXRpfxypL-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="fFavxp4S6fffXRpfxypL-1" source="fFavxp4S6fffXRpfxypL-2" target="fFavxp4S6fffXRpfxypL-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="91" y="61" as="sourcePoint" />
-            <mxPoint x="41" y="11" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
