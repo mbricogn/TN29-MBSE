@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T08:32:23.657Z" agent="5.0 (Windows)" etag="ajKHcC4fNDkrTJqRDfIa" version="17.4.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-28T08:32:37.916Z" agent="5.0 (Windows)" etag="TNP33kj0c2Jq-5SegBPb" version="17.4.6" type="github" pages="3">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 08/04">
     <mxGraphModel dx="1102" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -252,12 +252,6 @@
         </mxCell>
         <mxCell id="Rq9PnD2S2MJTXFQus3j1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="Oo9BH8QjuI-w8GSNunJo-18" target="UqVfPTxF4fjXLXs7qaGI-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Qyfd4ZNxhT_VqOFa1SNI-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;IBD: Système Interne&lt;/font&gt;" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Qyfd4ZNxhT_VqOFa1SNI-2" value="" style="align=left;html=1;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="Qyfd4ZNxhT_VqOFa1SNI-1">
-          <mxGeometry x="160" y="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
