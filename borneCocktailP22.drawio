@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T08:49:15.966Z" agent="5.0 (Windows)" etag="_TdMunb80J6lvW1NbbJZ" version="17.4.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-28T08:51:35.189Z" agent="5.0 (Windows)" etag="g91mx-lB87gOXDYQX7DM" version="17.4.6" type="github" pages="5">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 08/04">
     <mxGraphModel dx="1102" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -372,7 +372,7 @@
         <mxCell id="jhRRkq6tgHS31s3PWTDB-29" value="Conditions environnementales" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="110" y="189" width="190" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="jhRRkq6tgHS31s3PWTDB-54" value="&lt;div&gt;(à détailler)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jhRRkq6tgHS31s3PWTDB-29">
+        <mxCell id="jhRRkq6tgHS31s3PWTDB-54" value="&lt;div&gt;(à détailler)&lt;/div&gt;&lt;div&gt;Température&lt;/div&gt;&lt;div&gt;Humidité&lt;/div&gt;&lt;div&gt;Sol&lt;/div&gt;&lt;div&gt;Pas de pluie&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jhRRkq6tgHS31s3PWTDB-29">
           <mxGeometry y="21" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jhRRkq6tgHS31s3PWTDB-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jhRRkq6tgHS31s3PWTDB-29" target="jhRRkq6tgHS31s3PWTDB-1">
