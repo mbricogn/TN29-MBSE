@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T09:13:48.288Z" agent="5.0 (Windows)" etag="ljA3938GX_AjRXEGBUwc" version="17.4.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-28T09:15:09.038Z" agent="5.0 (Windows)" etag="2uxjhW_DCY5Sza5tuPy9" version="17.4.6" type="github" pages="5">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 08/04">
     <mxGraphModel dx="1102" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -262,7 +262,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jhRRkq6tgHS31s3PWTDB-48" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 10px ; text-align: left&quot;&gt;&lt;b&gt;bdd&lt;/b&gt; [System] Cocktail.me&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 10px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="html=1;strokeWidth=1;shape=mxgraph.sysml.package;labelX=160;align=left;spacingLeft=10;overflow=fill;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="950" height="590" as="geometry" />
+          <mxGeometry x="10" y="10" width="990" height="590" as="geometry" />
         </mxCell>
         <mxCell id="jhRRkq6tgHS31s3PWTDB-1" value="Cocktail.me" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="249" width="210" height="130" as="geometry" />
