@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T10:02:18.299Z" agent="5.0 (Windows)" etag="xZjhYZC8T-Sc6pbPJ0kF" version="17.4.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-28T10:02:50.335Z" agent="5.0 (Windows)" etag="LGnc3dx-gBW9TeWziAUm" version="17.4.6" type="github" pages="5">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 08/04">
     <mxGraphModel dx="1102" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -321,7 +321,7 @@
         <mxCell id="jhRRkq6tgHS31s3PWTDB-13" value="Système de gestion de&#xa; monnaie locale /réseau bancaire" style="swimlane;startSize=41;" vertex="1" parent="1">
           <mxGeometry x="150" y="439" width="190" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="jhRRkq6tgHS31s3PWTDB-14" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.017;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jhRRkq6tgHS31s3PWTDB-13">
+        <mxCell id="jhRRkq6tgHS31s3PWTDB-14" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jhRRkq6tgHS31s3PWTDB-13" target="1TsyDWA4HDsC0pp2GDrL-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="449" as="sourcePoint" />
             <mxPoint x="433.56999999999994" y="379" as="targetPoint" />
@@ -343,7 +343,7 @@
           <mxGeometry x="310" y="409" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jhRRkq6tgHS31s3PWTDB-20" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="359" width="60" height="30" as="geometry" />
+          <mxGeometry x="380" y="373.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jhRRkq6tgHS31s3PWTDB-21" value="2..*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="449" width="60" height="30" as="geometry" />
