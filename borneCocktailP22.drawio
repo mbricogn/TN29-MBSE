@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T08:56:58.631Z" agent="5.0 (Windows)" etag="z7ProvgjjVUpo6frvdDS" version="17.4.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-28T08:57:49.227Z" agent="5.0 (Windows)" etag="vm3s6IzDiWEPJQWAGWKl" version="17.4.6" type="github" pages="5">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 08/04">
     <mxGraphModel dx="1102" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -267,7 +267,7 @@
         <mxCell id="jhRRkq6tgHS31s3PWTDB-1" value="Cocktail.me" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="249" width="210" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="jhRRkq6tgHS31s3PWTDB-2" value="Borne&amp;nbsp;&lt;br&gt;Application&lt;br&gt;Moyen de paiement&lt;br&gt;Récipient&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jhRRkq6tgHS31s3PWTDB-1">
+        <mxCell id="jhRRkq6tgHS31s3PWTDB-2" value="Bornes &lt;br&gt;Application&lt;br&gt;Moyen de paiement&lt;br&gt;Récipient&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jhRRkq6tgHS31s3PWTDB-1">
           <mxGeometry y="26" width="210" height="104" as="geometry" />
         </mxCell>
         <mxCell id="jhRRkq6tgHS31s3PWTDB-3" value="Utilisateur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
