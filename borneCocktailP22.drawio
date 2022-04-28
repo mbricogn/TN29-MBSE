@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T09:54:33.689Z" agent="5.0 (Windows)" etag="yX7twhHLwWt9OfFv84Ac" version="17.4.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-28T09:55:29.402Z" agent="5.0 (Windows)" etag="boFur5ZsG30e7Fw340wO" version="17.4.6" type="github" pages="5">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 08/04">
     <mxGraphModel dx="1102" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -703,7 +703,7 @@
         <mxCell id="pguTNVFBRS75gToYM3KE-5" value="Serveur" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pguTNVFBRS75gToYM3KE-4">
           <mxGeometry y="26" width="161" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="pguTNVFBRS75gToYM3KE-6" value="Gestion Energie" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+        <mxCell id="pguTNVFBRS75gToYM3KE-6" value="Gestion Énergie électrique" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="230" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pguTNVFBRS75gToYM3KE-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.416;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=none;endFill=0;startSize=10;strokeWidth=1;" edge="1" parent="1" source="pguTNVFBRS75gToYM3KE-8" target="pguTNVFBRS75gToYM3KE-24">
