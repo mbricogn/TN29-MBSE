@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T08:51:35.189Z" agent="5.0 (Windows)" etag="g91mx-lB87gOXDYQX7DM" version="17.4.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-28T08:53:17.838Z" agent="5.0 (Windows)" etag="3QrYXIuQCaS2OChhbyZ9" version="17.4.6" type="github" pages="5">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 08/04">
     <mxGraphModel dx="1102" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -289,7 +289,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jhRRkq6tgHS31s3PWTDB-7" value="Récipient vide fourni &#xa;par l&#39;utilisateur" style="swimlane;startSize=40;" vertex="1" parent="1">
-          <mxGeometry x="190" y="60" width="150" height="110" as="geometry" />
+          <mxGeometry x="180" y="60" width="160" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="bP5BWaryAgILylvK0OrG-1" value="&lt;div&gt;Ecocup&lt;/div&gt;&lt;div&gt;Verre en carton&lt;/div&gt;&lt;div&gt;Tumbler&lt;/div&gt;&lt;div&gt;Verre à cocktail&lt;/div&gt;&lt;div&gt;Coupe&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jhRRkq6tgHS31s3PWTDB-7">
+          <mxGeometry y="37" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jhRRkq6tgHS31s3PWTDB-8" value="Source d&#39;énergie" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="710" y="130" width="150" height="92" as="geometry" />
