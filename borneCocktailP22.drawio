@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T09:00:03.722Z" agent="5.0 (Windows)" etag="cDbrMsfpTR6Z9dhoJPUm" version="17.4.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-28T09:00:26.654Z" agent="5.0 (Windows)" etag="l_RxrHxbhU_B1_aM0dWZ" version="17.4.6" type="github" pages="5">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 08/04">
     <mxGraphModel dx="1102" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -294,8 +294,8 @@
         <mxCell id="bP5BWaryAgILylvK0OrG-1" value="&lt;div&gt;Ecocup&lt;/div&gt;&lt;div&gt;Verre en carton&lt;/div&gt;&lt;div&gt;Tumbler&lt;/div&gt;&lt;div&gt;Verre à cocktail&lt;/div&gt;&lt;div&gt;Coupe&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jhRRkq6tgHS31s3PWTDB-7">
           <mxGeometry y="37" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jhRRkq6tgHS31s3PWTDB-8" value="Source d&#39;énergie" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="710" y="130" width="150" height="92" as="geometry" />
+        <mxCell id="jhRRkq6tgHS31s3PWTDB-8" value="Source d&#39;énergie électrique" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="710" y="130" width="160" height="92" as="geometry" />
         </mxCell>
         <mxCell id="jhRRkq6tgHS31s3PWTDB-9" value="Matières premières" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="370" y="479" width="200" height="90" as="geometry" />
