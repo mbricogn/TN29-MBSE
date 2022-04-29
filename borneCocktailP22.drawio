@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T10:36:04.421Z" agent="5.0 (Windows)" etag="D9Zgnblv4plAjTG4rZOV" version="17.4.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-04-29T10:38:34.603Z" agent="5.0 (Windows)" etag="frhB0rf4dxz6GxLW2cuN" version="17.4.6" type="github" pages="6">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 28/04">
     <mxGraphModel dx="1102" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -694,19 +694,19 @@
         <mxCell id="pguTNVFBRS75gToYM3KE-4" value="Cocktail.me" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="283" y="359" width="161" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="pguTNVFBRS75gToYM3KE-6" value="Gestion Énergie électrique" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+        <mxCell id="pguTNVFBRS75gToYM3KE-6" value="Gérer Énergie électrique" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="620" y="230" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pguTNVFBRS75gToYM3KE-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.416;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=none;endFill=0;startSize=10;strokeWidth=1;" parent="1" source="pguTNVFBRS75gToYM3KE-8" target="pguTNVFBRS75gToYM3KE-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pguTNVFBRS75gToYM3KE-8" value="Gestion des eaux usées" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+        <mxCell id="pguTNVFBRS75gToYM3KE-8" value="Gérer les eaux usées" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="359" y="55.75" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="msnOvSN5IKqFO256EGqV-1" value="Evacuation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="pguTNVFBRS75gToYM3KE-8" vertex="1">
           <mxGeometry y="26" width="150" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="pguTNVFBRS75gToYM3KE-9" value="Gestion des eaux de rinçage" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+        <mxCell id="pguTNVFBRS75gToYM3KE-9" value="Gérer les eaux de rinçage" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="140" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pguTNVFBRS75gToYM3KE-10" value="Résister à l&#39;environement" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
@@ -718,7 +718,7 @@
         <mxCell id="pguTNVFBRS75gToYM3KE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;startSize=10;strokeWidth=1;" parent="1" source="pguTNVFBRS75gToYM3KE-16" target="pguTNVFBRS75gToYM3KE-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pguTNVFBRS75gToYM3KE-16" value="Gestion du paiement" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+        <mxCell id="pguTNVFBRS75gToYM3KE-16" value="Gérer le paiement" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="310" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="pguTNVFBRS75gToYM3KE-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=diamondThin;endFill=1;startArrow=none;startFill=0;" parent="1" source="pguTNVFBRS75gToYM3KE-19" target="pguTNVFBRS75gToYM3KE-21" edge="1">
@@ -904,7 +904,7 @@
             <mxPoint x="730" y="384" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DBpj9X3ehCF_anfRq41L-1" value="Réfrigération des consommables" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+        <mxCell id="DBpj9X3ehCF_anfRq41L-1" value="Réfrigérer les consommables" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="630" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DBpj9X3ehCF_anfRq41L-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.826;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="l7yHc4gmkcwsd-2z9fEK-6" target="pguTNVFBRS75gToYM3KE-25" edge="1">
