@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T10:44:42.744Z" agent="5.0 (Windows)" etag="-0DArL_UQJX5QA_dvpuc" version="17.4.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-04-29T10:45:20.958Z" agent="5.0 (Windows)" etag="ShjkUnpIUZ82O59CQI6S" version="17.4.6" type="github" pages="6">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 28/04">
     <mxGraphModel dx="1102" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -964,8 +964,8 @@
         <mxCell id="54OXRMY2k_NXLuH15qed-1" value="Sortie Eaux usées " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="538" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ecWv7RHZFDinK7RLH3uB-2" value="Sortie Eaux usées " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="8" y="391.5" width="115" height="30" as="geometry" />
+        <mxCell id="ecWv7RHZFDinK7RLH3uB-2" value="Flux Système de gestion de&lt;br&gt;&amp;nbsp;monnaie locale /réseau bancaire" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8" y="409.5" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
