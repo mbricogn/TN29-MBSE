@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T10:38:34.603Z" agent="5.0 (Windows)" etag="frhB0rf4dxz6GxLW2cuN" version="17.4.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-04-29T10:39:48.155Z" agent="5.0 (Windows)" etag="_Wpm0BbHWiOnTkX1RBuA" version="17.4.6" type="github" pages="6">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 28/04">
     <mxGraphModel dx="1102" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -758,10 +758,10 @@
         <mxCell id="pguTNVFBRS75gToYM3KE-25" value="Commander" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="pguTNVFBRS75gToYM3KE-24" vertex="1">
           <mxGeometry y="26" width="161" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="pguTNVFBRS75gToYM3KE-26" value="Application" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="263" y="477" width="161" height="63" as="geometry" />
+        <mxCell id="pguTNVFBRS75gToYM3KE-26" value="Application&#xa;(Gérer la Commande)" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="262" y="477" width="161" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="pguTNVFBRS75gToYM3KE-27" value="Commander" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="pguTNVFBRS75gToYM3KE-26" vertex="1">
+        <mxCell id="pguTNVFBRS75gToYM3KE-27" value="&lt;div&gt;Commander&lt;/div&gt;&lt;div&gt;(Application ou borne)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="pguTNVFBRS75gToYM3KE-26" vertex="1">
           <mxGeometry y="26" width="161" height="37" as="geometry" />
         </mxCell>
         <mxCell id="pguTNVFBRS75gToYM3KE-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;startSize=10;strokeWidth=1;" parent="1" source="pguTNVFBRS75gToYM3KE-25" target="pguTNVFBRS75gToYM3KE-16" edge="1">
