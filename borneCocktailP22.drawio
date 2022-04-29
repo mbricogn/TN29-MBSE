@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T12:11:31.585Z" agent="5.0 (Windows)" etag="Lqr1TlIAJqYSrdyo8lcP" version="17.4.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-04-29T12:12:49.551Z" agent="5.0 (Windows)" etag="bHqKpoayeyPsSh8aIa4T" version="17.4.6" type="github" pages="6">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 28/04">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -267,7 +267,7 @@
         <mxCell id="jhRRkq6tgHS31s3PWTDB-1" value="Cocktail.me" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="430" y="249" width="210" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="jhRRkq6tgHS31s3PWTDB-2" value="&lt;div&gt;Borne &lt;br&gt;&lt;/div&gt;&lt;div&gt;Serveur&lt;br&gt;&lt;/div&gt;Application&lt;br&gt;Moyen de paiement&lt;br&gt;Récipient&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="jhRRkq6tgHS31s3PWTDB-1" vertex="1">
+        <mxCell id="jhRRkq6tgHS31s3PWTDB-2" value="&lt;div&gt;Borne &lt;br&gt;&lt;/div&gt;&lt;div&gt;Serveur&lt;br&gt;&lt;/div&gt;Application&lt;br&gt;Moyen de paiement&lt;br&gt;&lt;div&gt;Récipient &lt;br&gt;&lt;/div&gt;&lt;div&gt;Carte Sim&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="jhRRkq6tgHS31s3PWTDB-1" vertex="1">
           <mxGeometry y="26" width="210" height="104" as="geometry" />
         </mxCell>
         <mxCell id="jhRRkq6tgHS31s3PWTDB-3" value="Utilisateur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
@@ -528,10 +528,25 @@
         <mxCell id="UDNrAIpgBueyduJNoZih-1" value="Réseau internet" style="swimlane;startSize=41;" vertex="1" parent="1">
           <mxGeometry x="105" y="314.5" width="190" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="UDNrAIpgBueyduJNoZih-2" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="jhRRkq6tgHS31s3PWTDB-2">
+        <mxCell id="UDNrAIpgBueyduJNoZih-2" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="B4TVXXlTveceSFMIs3ea-1" target="jhRRkq6tgHS31s3PWTDB-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="295" y="373.5" as="sourcePoint" />
             <mxPoint x="395" y="323.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B4TVXXlTveceSFMIs3ea-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="316.25" width="20" height="21.5" as="geometry" />
+        </mxCell>
+        <mxCell id="B4TVXXlTveceSFMIs3ea-3" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="B4TVXXlTveceSFMIs3ea-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="295" y="373.5" as="sourcePoint" />
+            <mxPoint x="430" y="327" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B4TVXXlTveceSFMIs3ea-4" value="" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="407" y="328" as="sourcePoint" />
+            <mxPoint x="434" y="328.13157894736844" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
