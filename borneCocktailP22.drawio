@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T11:33:58.976Z" agent="5.0 (Windows)" etag="FHZJekS00BIXFCzEj6nD" version="17.4.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-04-29T11:34:42.666Z" agent="5.0 (Windows)" etag="PQ0RK0qL05aqaJ9QgqIZ" version="17.4.6" type="github" pages="6">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 28/04">
     <mxGraphModel dx="1102" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -651,7 +651,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fBpKY7oecZvESR5hYVFs" name="Architecture interne 28/04">
-    <mxGraphModel dx="1102" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1103,7 +1103,7 @@
         </mxCell>
         <mxCell id="MRGa7mrmD17GB3EoQvXY-27" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="MRGa7mrmD17GB3EoQvXY-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-580" y="210" as="sourcePoint" />
+            <mxPoint x="-580" y="220" as="sourcePoint" />
             <mxPoint x="-730" y="290" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-770" y="230" />
