@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T13:34:49.069Z" agent="5.0 (Windows)" etag="bHYxNEH5oPlKgFLL_O7r" version="17.4.6" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-04-29T13:35:56.789Z" agent="5.0 (Windows)" etag="XZBdKbego2lkXs1vx-FY" version="17.4.6" type="github" pages="12">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 28/04">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1910,6 +1910,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="SSCXfisaonk5-bXN9fUk" name="[UC]S&#39;adapter au récipient">
+    <mxGraphModel dx="1102" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
