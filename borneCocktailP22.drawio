@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T10:33:07.349Z" agent="5.0 (Windows)" etag="qKt5qLASdtVuBfTkxgN3" version="17.4.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-04-29T10:33:48.896Z" agent="5.0 (Windows)" etag="OPdFafH3tnBlX4b5LbfN" version="17.4.6" type="github" pages="6">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 28/04">
     <mxGraphModel dx="1102" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -691,11 +691,8 @@
         <mxCell id="pguTNVFBRS75gToYM3KE-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;startSize=10;strokeWidth=1;" parent="1" source="pguTNVFBRS75gToYM3KE-4" target="pguTNVFBRS75gToYM3KE-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pguTNVFBRS75gToYM3KE-4" value="Cocktail.me" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+        <mxCell id="pguTNVFBRS75gToYM3KE-4" value="Serveur" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="283" y="359" width="161" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="pguTNVFBRS75gToYM3KE-5" value="Serveur" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="pguTNVFBRS75gToYM3KE-4" vertex="1">
-          <mxGeometry y="26" width="161" height="56" as="geometry" />
         </mxCell>
         <mxCell id="pguTNVFBRS75gToYM3KE-6" value="Gestion Énergie électrique" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="620" y="230" width="200" height="60" as="geometry" />
