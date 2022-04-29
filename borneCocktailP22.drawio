@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T12:39:58.153Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="neUKX00AiLUKPVUldmkq" version="17.4.6" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-04-29T12:44:30.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="vXIMtwJ4g2LsLxP_X9J0" version="17.4.6" type="github" pages="9">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 28/04">
     <mxGraphModel dx="925" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -71,7 +71,7 @@
         <mxCell id="x3GNaz5jvSgBGuDH6Asv-1" value="Exigences :&lt;br&gt;-&lt;b&gt; Création du mélange (reproductibilité du cocktail) G4&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Humidit%C3%A9%26lt%3Bbr%26gt%3BTemp%C3%A9rature%26lt%3Bbr%26gt%3BVent%26lt%3Bbr%26gt%3BChoc%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22160%22%20y%3D%22126%22%20width%3D%22150%22%20height%3D%22104%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="212.5" y="384" width="137.5" height="137.5" as="geometry" />
         </mxCell>
-        <mxCell id="x3GNaz5jvSgBGuDH6Asv-2" value="&lt;b&gt;- Conservation des consommables G1&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x3GNaz5jvSgBGuDH6Asv-2" value="&lt;b&gt;- Conservation des consommables G1&lt;/b&gt;&lt;br&gt;- Nombre de cocktails" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="414" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x3GNaz5jvSgBGuDH6Asv-3" value="- Moyen de paiement&lt;br&gt;- Resister à des conditions environnementales&lt;br&gt;&lt;b&gt;- S&#39;adapter à la clientèle G2&lt;/b&gt;&lt;br&gt;&lt;b&gt;- S&#39;adapter au recipient G3&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -79,6 +79,9 @@
         </mxCell>
         <mxCell id="x3GNaz5jvSgBGuDH6Asv-4" value="- Communauté&lt;br&gt;- Sécurité informatique" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x3GNaz5jvSgBGuDH6Asv-5" value="Sécurité" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
