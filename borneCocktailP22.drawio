@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T11:14:53.091Z" agent="5.0 (Windows)" etag="Du8wYy3Y59xZS-MHGfv5" version="17.4.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-04-29T11:15:53.359Z" agent="5.0 (Windows)" etag="6qON9Y924_Nqs3ZOTpn9" version="17.4.6" type="github" pages="6">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 28/04">
     <mxGraphModel dx="1102" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -934,7 +934,7 @@
         <mxCell id="EsTklsjMGTvrj0vv3b2G-1" value="Entrée Matières Premières" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="337" y="797" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EsTklsjMGTvrj0vv3b2G-2" value="Sortie Boisson Personnalisée" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EsTklsjMGTvrj0vv3b2G-2" value="Sortie " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="798" y="797" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7ogcGBA4xITo23GeAVut-1" value="Entrée Récipient vide fourni &lt;br&gt;par l&#39;utilisateur" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
