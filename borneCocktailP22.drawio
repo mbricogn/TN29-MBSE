@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T12:16:19.276Z" agent="5.0 (Windows)" etag="O05ftwmqY1jz1DopKzna" version="17.4.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-04-29T12:17:01.774Z" agent="5.0 (Windows)" etag="MwJ9Eq_VcH1SvN5cwxEi" version="17.4.6" type="github" pages="8">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 28/04">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -965,7 +965,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0HWU9O34BwQLpsukV5xz" name="Ibd global">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1268,6 +1268,12 @@
         </mxCell>
         <mxCell id="JOiJJV3nfUfyTORFJZNn-70" value="Flux Système de gestion de&lt;br&gt;&amp;nbsp;monnaie locale /réseau bancaire" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="8" y="409.5" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LRx4uuoN66wnyIDvzlQK-1" value="Application" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="540" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LRx4uuoN66wnyIDvzlQK-2" value="Serveur" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="640" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
