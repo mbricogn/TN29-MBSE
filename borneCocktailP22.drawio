@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-05T18:25:39.090Z" agent="5.0 (Windows)" etag="jrWGBhqSmWiYRW-W9vdS" version="17.5.0" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-05-05T18:29:14.505Z" agent="5.0 (Windows)" etag="m8s8rKki2MdUsP-bgAJI" version="17.5.0" type="github" pages="13">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 28/04">
     <mxGraphModel dx="1102" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1678,7 +1678,7 @@
         <mxCell id="prfU_2Q9fSbe94WKe3LK-0" />
         <mxCell id="prfU_2Q9fSbe94WKe3LK-1" parent="prfU_2Q9fSbe94WKe3LK-0" />
         <mxCell id="prfU_2Q9fSbe94WKe3LK-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 7px ; text-align: left&quot;&gt;&lt;b&gt;req&lt;/b&gt;S&#39;adapter au récipient&lt;br&gt;&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=160;strokeWidth=2;align=center;" parent="prfU_2Q9fSbe94WKe3LK-1" vertex="1">
-          <mxGeometry x="-1150" y="50" width="1120" height="610" as="geometry" />
+          <mxGeometry x="-1150" y="50" width="1120" height="770" as="geometry" />
         </mxCell>
         <mxCell id="prfU_2Q9fSbe94WKe3LK-3" value="&lt;p style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;b&gt;&lt;br&gt;Cocktail.me&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#000000;" parent="prfU_2Q9fSbe94WKe3LK-1" vertex="1">
           <mxGeometry x="-660" y="60" width="160" height="50" as="geometry" />
@@ -1713,7 +1713,7 @@
         <mxCell id="prfU_2Q9fSbe94WKe3LK-10" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;b&gt;Capter le volume du récipient fourni par l&#39;utilisateur&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;&lt;/font&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Le système doit capter le volume du récipient fourni par l&#39;utilisateur&lt;/font&gt; et refuser le récipient si le volume n&#39;est pas suffisant pour contenir la boisson (avec des boissons pouvant varier entre 12cl et 30cl)&quot;&lt;br&gt;Id=&quot;3.1.2&quot;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 11px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;reqtType=Fonctionnelle&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;" parent="prfU_2Q9fSbe94WKe3LK-1" vertex="1">
           <mxGeometry x="-930" y="451" width="200" height="179" as="geometry" />
         </mxCell>
-        <mxCell id="prfU_2Q9fSbe94WKe3LK-11" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Distribuer un récipient&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;&lt;/font&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Le système doit distribuer un récipient si l&#39;utilisateur ne lui en fournit pas&lt;/font&gt;&quot;&lt;br&gt;Id=&quot;3.1.4&quot;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;reqtType=Fonctionnelle&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;" parent="prfU_2Q9fSbe94WKe3LK-1" vertex="1">
+        <mxCell id="prfU_2Q9fSbe94WKe3LK-11" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Distribuer un récipient avec sa paille&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;&lt;/font&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Le système doit distribuer un récipient avec sa paille si l&#39;utilisateur ne lui en fournit pas&lt;/font&gt;&quot;&lt;br&gt;Id=&quot;3.1.4&quot;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;reqtType=Fonctionnelle&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;" parent="prfU_2Q9fSbe94WKe3LK-1" vertex="1">
           <mxGeometry x="-490" y="451" width="130" height="179" as="geometry" />
         </mxCell>
         <mxCell id="prfU_2Q9fSbe94WKe3LK-12" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="prfU_2Q9fSbe94WKe3LK-1" source="prfU_2Q9fSbe94WKe3LK-6" target="prfU_2Q9fSbe94WKe3LK-10" edge="1">
@@ -1771,6 +1771,16 @@
               <mxPoint x="-720" y="410" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YMr_f5Vk9-2Y6zaPKmV2-0" value="&amp;lt;&amp;lt;deriveReqt&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;endSize=12;dashed=1;verticalAlign=bottom;rounded=0;fontSize=11;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="prfU_2Q9fSbe94WKe3LK-1" source="YMr_f5Vk9-2Y6zaPKmV2-1" target="uhWuco9_coyR7clIQdL_-0">
+          <mxGeometry x="-0.5991" y="-2" width="160" relative="1" as="geometry">
+            <mxPoint x="-520" y="680" as="sourcePoint" />
+            <mxPoint x="-650" y="670.0044444444445" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YMr_f5Vk9-2Y6zaPKmV2-1" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Distribuer une paille&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;text=&quot;&lt;/font&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Le système doit distribuer une paille si l&#39;utilisateur n&#39;en a pas fourni avec son récipient&lt;/font&gt;&quot;&lt;br&gt;Id=&quot;3.1.4&quot;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;reqtType=Fonctionnelle&lt;/font&gt;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;fillColor=#FFFCF5;" vertex="1" parent="prfU_2Q9fSbe94WKe3LK-1">
+          <mxGeometry x="-540" y="670" width="130" height="139" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
