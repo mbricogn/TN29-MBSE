@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T13:20:41.052Z" agent="5.0 (Windows)" etag="wFKNu7_j-oXlbyV1-uON" version="18.0.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-05-06T13:20:48.543Z" agent="5.0 (Windows)" etag="w-5WAyVQW2UXTNsnTuxc" version="18.0.1" type="github" pages="14">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 28/04">
     <mxGraphModel dx="1102" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1065,11 +1065,8 @@
         <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-3" value="Système de gestion Énergie électrique" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="230" width="223" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.416;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=none;endFill=0;startSize=10;strokeWidth=1;" edge="1" parent="1" source="DrRmmUzAoJ1X7GsHtZAJ-5" target="DrRmmUzAoJ1X7GsHtZAJ-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-5" value="Système de gestion des eaux usées" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="55.75" width="200" height="82" as="geometry" />
+          <mxGeometry x="427" y="58" width="200" height="82" as="geometry" />
         </mxCell>
         <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-6" value="Evacuation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DrRmmUzAoJ1X7GsHtZAJ-5">
           <mxGeometry y="26" width="200" height="56" as="geometry" />
