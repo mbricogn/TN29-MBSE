@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T12:57:42.319Z" agent="5.0 (Windows)" etag="gyRSf4dND4hqWI2_OIeC" version="18.0.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-05-06T12:57:50.950Z" agent="5.0 (Windows)" etag="ofgt14HdL3JfnjFL1GGC" version="18.0.1" type="github" pages="14">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 28/04">
     <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1109,7 +1109,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tOzFPJDEvn8jNF_yQw1T-12" value="Système de captation&#xa; de récipient" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=45;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="663" y="345" width="160" height="80" as="geometry" />
+          <mxGeometry x="663" y="345" width="160" height="94" as="geometry" />
         </mxCell>
         <mxCell id="tOzFPJDEvn8jNF_yQw1T-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.544;entryY=-0.025;entryDx=0;entryDy=0;endArrow=diamondThin;endFill=1;strokeWidth=1;startSize=10;entryPerimeter=0;" edge="1" parent="1" source="tOzFPJDEvn8jNF_yQw1T-14" target="tOzFPJDEvn8jNF_yQw1T-15">
           <mxGeometry relative="1" as="geometry">
