@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T19:00:07.483Z" agent="5.0 (Windows)" etag="rid1P9KTNeU3ktjeXGZe" version="18.0.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-05-06T19:01:57.549Z" agent="5.0 (Windows)" etag="I1LgZX7uVvVfSEv9RzfJ" version="18.0.1" type="github" pages="14">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 28/04">
     <mxGraphModel dx="1102" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1107,23 +1107,35 @@
             <mxPoint x="307" y="311" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-8" value="Système de catérisation" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-1" vertex="1">
-          <mxGeometry x="742" y="4" width="150" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-9" value="&lt;div&gt;&lt;u&gt;Values :&lt;/u&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;Étanchéité&lt;/div&gt;&lt;div&gt;Isolation&lt;br&gt;&lt;/div&gt;&lt;div&gt;Résistance au choc&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-8" vertex="1">
-          <mxGeometry y="26" width="150" height="104" as="geometry" />
-        </mxCell>
         <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-7" value="Système de gestion des eaux de rinçage" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-1" vertex="1">
           <mxGeometry x="797" y="643" width="237" height="56" as="geometry" />
         </mxCell>
         <mxCell id="z0avjvAl2YP_qBcy3YM1-3" value="&lt;u&gt;Parts :&lt;br&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-7" vertex="1">
           <mxGeometry y="26" width="237" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-3" value="Système de gestion Énergie électrique" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="695" y="222.5" width="223" height="75" as="geometry" />
+        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-34" value="Système de préparation &#xa;de la boisson" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-1" vertex="1">
+          <mxGeometry x="346" y="330" width="150" height="144" as="geometry" />
         </mxCell>
-        <mxCell id="z0avjvAl2YP_qBcy3YM1-4" value="&lt;div&gt;&lt;u&gt;Parts :&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- Transformateur&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-3" vertex="1">
-          <mxGeometry y="26" width="223" height="49" as="geometry" />
+        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-35" value="&lt;div&gt;Viscosité&lt;/div&gt;&lt;div&gt;Volume&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Liquides&lt;/div&gt;solides" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-34" vertex="1">
+          <mxGeometry y="40" width="150" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-50" value="" style="endArrow=none;html=1;rounded=0;entryX=0.708;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.573;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;startArrow=open;startFill=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-1" source="DrRmmUzAoJ1X7GsHtZAJ-34" edge="1" target="i5fVHMDBQkp13aJhr75f-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="570" as="sourcePoint" />
+            <mxPoint x="482.9859999999999" y="313.96000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-49" value="Système de réfrigération &#xa;des consommables" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-1" vertex="1">
+          <mxGeometry x="241.5" y="607" width="228" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="S3FiOpJ8qldf3O6zpKCQ-5" value="&lt;div&gt;&lt;u&gt;Values :&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- Température interne&lt;/div&gt;&lt;div&gt;- Conductivité thermique&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-49" vertex="1">
+          <mxGeometry y="30" width="228" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-8" value="Système de catérisation" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-1" vertex="1">
+          <mxGeometry x="24" y="611.5" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-9" value="&lt;div&gt;&lt;u&gt;Values :&lt;/u&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;Étanchéité&lt;/div&gt;&lt;div&gt;Isolation&lt;br&gt;&lt;/div&gt;&lt;div&gt;Résistance au choc&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-8" vertex="1">
+          <mxGeometry y="26" width="150" height="104" as="geometry" />
         </mxCell>
         <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-5" value="Système de gestion des eaux usées" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="928" y="780" width="200" height="82" as="geometry">
@@ -1163,30 +1175,6 @@
         </mxCell>
         <mxCell id="z0avjvAl2YP_qBcy3YM1-1" value="&lt;div&gt;Vitesse de versement&lt;br&gt;&lt;u&gt;&lt;i&gt;&lt;/i&gt;&lt;/u&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-16" vertex="1">
           <mxGeometry y="50" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-23" value="" style="group;rotation=-90;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1003" y="249.25" width="20" height="21.5" as="geometry" />
-        </mxCell>
-        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-24" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" parent="DrRmmUzAoJ1X7GsHtZAJ-23" vertex="1">
-          <mxGeometry width="20" height="21.5" as="geometry" />
-        </mxCell>
-        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-23" source="DrRmmUzAoJ1X7GsHtZAJ-24" target="DrRmmUzAoJ1X7GsHtZAJ-24" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="91" y="61" as="sourcePoint" />
-            <mxPoint x="41" y="11" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-26" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="DrRmmUzAoJ1X7GsHtZAJ-3" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1013" y="260" as="sourcePoint" />
-            <mxPoint x="633" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-34" value="Système de préparation &#xa;de la boisson" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="510" y="496" width="150" height="144" as="geometry" />
-        </mxCell>
-        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-35" value="&lt;div&gt;Viscosité&lt;/div&gt;&lt;div&gt;Volume&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Liquides&lt;/div&gt;solides" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-34" vertex="1">
-          <mxGeometry y="40" width="150" height="104" as="geometry" />
         </mxCell>
         <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.381;entryY=-0.012;entryDx=0;entryDy=0;endArrow=open;endFill=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="DrRmmUzAoJ1X7GsHtZAJ-35" target="DrRmmUzAoJ1X7GsHtZAJ-16" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1230,18 +1218,6 @@
             <mxPoint x="840" y="384" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-49" value="Système de réfrigération &#xa;des consommables" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="251" y="630" width="228" height="109" as="geometry" />
-        </mxCell>
-        <mxCell id="S3FiOpJ8qldf3O6zpKCQ-5" value="&lt;div&gt;&lt;u&gt;Values :&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- Température interne&lt;/div&gt;&lt;div&gt;- Conductivité thermique&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-49" vertex="1">
-          <mxGeometry y="30" width="228" height="79" as="geometry" />
-        </mxCell>
-        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-50" value="" style="endArrow=none;html=1;rounded=0;entryX=0.826;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.573;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;startArrow=open;startFill=0;" parent="1" source="DrRmmUzAoJ1X7GsHtZAJ-34" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="583" y="590" as="sourcePoint" />
-            <mxPoint x="595.9859999999999" y="333.96000000000004" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-51" value="" style="group;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="355" y="780" width="20" height="21.5" as="geometry" />
         </mxCell>
@@ -1254,32 +1230,14 @@
             <mxPoint x="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-54" value="" style="endArrow=open;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=0;" parent="1" source="DrRmmUzAoJ1X7GsHtZAJ-52" target="DrRmmUzAoJ1X7GsHtZAJ-49" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="583" y="590" as="sourcePoint" />
-            <mxPoint x="633" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-55" value="" style="endArrow=open;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endFill=0;" parent="1" source="DrRmmUzAoJ1X7GsHtZAJ-49" target="DrRmmUzAoJ1X7GsHtZAJ-35" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="583" y="560" as="sourcePoint" />
-            <mxPoint x="483" y="600" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="365" y="600" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-56" value="Entrée Approvisionnement" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="364" y="797" width="115" height="30" as="geometry" />
+          <mxGeometry x="476" y="799" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-57" value="Sortie boisson " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="798" y="797" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-58" value="Entrée Récipient vide fourni &lt;br&gt;par l&#39;utilisateur" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1013" y="399" width="115" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-59" value="Entrée Source d&#39;énergie électrique" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1013" y="270.75" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-60" value="Entrée Source d&#39;eau" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1027" y="623" width="115" height="30" as="geometry" />
@@ -1352,6 +1310,15 @@
             <mxPoint x="505" y="301" as="sourcePoint" />
             <mxPoint x="208" y="282" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-59" value="Entrée Source d&#39;énergie électrique" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="154.5" y="779" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-3" value="Système de gestion Énergie électrique" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="15" y="827" width="223" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="z0avjvAl2YP_qBcy3YM1-4" value="&lt;div&gt;&lt;u&gt;Parts :&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- Transformateur&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-3" vertex="1">
+          <mxGeometry y="26" width="223" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
