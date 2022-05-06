@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T12:43:53.620Z" agent="5.0 (Windows)" etag="F-aDjFXfLYfsS8DNQhxJ" version="18.0.1" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-05-06T12:44:58.488Z" agent="5.0 (Windows)" etag="rXNPOFHVny5YJMooVzDa" version="18.0.1" type="github" pages="13">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 28/04">
     <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -745,7 +745,7 @@
         <mxCell id="NX6eZVpcrxNAmKu-6lR3-12" value="Système de cartérisation" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="NX6eZVpcrxNAmKu-6lR3-1" vertex="1">
           <mxGeometry x="253" y="100" width="150" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="NX6eZVpcrxNAmKu-6lR3-13" value="Humidité&lt;br&gt;Température&lt;br&gt;Vent&lt;br&gt;Choc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="NX6eZVpcrxNAmKu-6lR3-12" vertex="1">
+        <mxCell id="NX6eZVpcrxNAmKu-6lR3-13" value="&lt;div&gt;Préciser Attributs de résistance à :&lt;/div&gt;&lt;div&gt;- Humidité (&lt;br&gt;&lt;/div&gt;- Température (&lt;br&gt;- Vent (&lt;br&gt;- Choc (" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="NX6eZVpcrxNAmKu-6lR3-12" vertex="1">
           <mxGeometry y="26" width="150" height="104" as="geometry" />
         </mxCell>
         <mxCell id="NX6eZVpcrxNAmKu-6lR3-15" value="Système de gestion&#xa; le paiement" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="NX6eZVpcrxNAmKu-6lR3-1" vertex="1">
