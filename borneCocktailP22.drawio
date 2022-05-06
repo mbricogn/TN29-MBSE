@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T14:15:02.158Z" agent="5.0 (Windows)" etag="HT_gBT5PwCnErtJJ7LEa" version="18.0.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-05-06T14:15:31.164Z" agent="5.0 (Windows)" etag="shSmvJrdHOD1P00g2wes" version="18.0.1" type="github" pages="14">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 28/04">
     <mxGraphModel dx="1102" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1073,13 +1073,13 @@
             <mxRectangle x="427" y="58" width="232" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-6" value="Evacuation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DrRmmUzAoJ1X7GsHtZAJ-5">
+        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-6" value="&lt;div&gt;&lt;u&gt;Attributs :&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DrRmmUzAoJ1X7GsHtZAJ-5">
           <mxGeometry y="26" width="200" height="56" as="geometry" />
         </mxCell>
         <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-7" value="Système de gestion des eaux de rinçage" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="653" y="140" width="237" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="z0avjvAl2YP_qBcy3YM1-3" value="Attributs :" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DrRmmUzAoJ1X7GsHtZAJ-7">
+        <mxCell id="z0avjvAl2YP_qBcy3YM1-3" value="&lt;u&gt;Attributs :&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DrRmmUzAoJ1X7GsHtZAJ-7">
           <mxGeometry y="26" width="237" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-8" value="Système de catérisation" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
