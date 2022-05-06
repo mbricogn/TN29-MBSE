@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T14:18:56.366Z" agent="5.0 (Windows)" etag="93mYTmr5BsK6LkfR2F4B" version="18.0.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-05-06T14:25:04.307Z" agent="5.0 (Windows)" etag="NMb2OcP6DCy8LwFVJqFr" version="18.0.1" type="github" pages="14">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 28/04">
     <mxGraphModel dx="1102" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1335,7 +1335,7 @@
             <mxPoint x="301" y="543" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-69" value="utilisateur" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-69" value="Utilisateur" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="260" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-70" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=91;" vertex="1" parent="1">
@@ -1587,7 +1587,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="[Reqt] S&#39;adapter à la clientèle" id="RyvxUyRiHGZsw0JRCZht">
-    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3440" dy="1399" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="m0b-0R2HOMqG2GHah_Wu-0" />
         <mxCell id="m0b-0R2HOMqG2GHah_Wu-1" parent="m0b-0R2HOMqG2GHah_Wu-0" />
@@ -1808,7 +1808,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="[Reqt] Réaliser le mélange" id="YlLCeHOAlY557fwWHUjk">
-    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3440" dy="1399" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="n0H2aNr1cAWR9lz0R8H2-0" />
         <mxCell id="n0H2aNr1cAWR9lz0R8H2-1" parent="n0H2aNr1cAWR9lz0R8H2-0" />
