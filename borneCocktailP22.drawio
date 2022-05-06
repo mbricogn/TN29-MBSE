@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T17:38:32.635Z" agent="5.0 (Windows)" etag="lzsO7_AHS7lIZCis_osP" version="18.0.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-05-06T17:51:43.652Z" agent="5.0 (Windows)" etag="TohrBKJDnBYTuAXvCTcM" version="18.0.1" type="github" pages="14">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 28/04">
     <mxGraphModel dx="1102" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -118,11 +118,11 @@
             <mxPoint x="640.4200000000001" y="379.2080000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jhRRkq6tgHS31s3PWTDB-7" value="Récipient vide fourni &#xa;par l&#39;utilisateur" style="swimlane;startSize=40;" parent="1" vertex="1">
-          <mxGeometry x="180" y="60" width="160" height="117" as="geometry" />
+        <mxCell id="jhRRkq6tgHS31s3PWTDB-7" value="Récipient vide fourni &#xa;par l&#39;utilisateur" style="swimlane;startSize=40;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="180" y="45" width="160" height="132" as="geometry" />
         </mxCell>
-        <mxCell id="bP5BWaryAgILylvK0OrG-1" value="&lt;div&gt;&lt;u&gt;Parts :&lt;/u&gt; Ecocup&lt;/div&gt;&lt;div&gt;Verre en carton&lt;/div&gt;&lt;div&gt;Tumbler&lt;/div&gt;&lt;div&gt;Verre à cocktail&lt;/div&gt;&lt;div&gt;Coupe&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="jhRRkq6tgHS31s3PWTDB-7" vertex="1">
-          <mxGeometry y="37" width="160" height="80" as="geometry" />
+        <mxCell id="bP5BWaryAgILylvK0OrG-1" value="&lt;div&gt;&lt;u&gt;Values :&lt;/u&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;- Volume&lt;/div&gt;&lt;div&gt;- Type (Ecocup, Verre en carton, Tumbler, Verre à cocktail, Coupe)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="jhRRkq6tgHS31s3PWTDB-7" vertex="1">
+          <mxGeometry y="37" width="160" height="93" as="geometry" />
         </mxCell>
         <mxCell id="jhRRkq6tgHS31s3PWTDB-8" value="Source d&#39;énergie électrique" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="710" y="130" width="160" height="92" as="geometry" />
@@ -196,7 +196,7 @@
         <mxCell id="jhRRkq6tgHS31s3PWTDB-29" value="Conditions environnementales" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="110" y="189" width="190" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="jhRRkq6tgHS31s3PWTDB-54" value="&lt;div&gt;Température : entre -10°C et +50°C&lt;br&gt;&lt;/div&gt;&lt;div&gt;Humidité : maximum 90%&lt;br&gt;&lt;/div&gt;&lt;div&gt;Sol stable&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pas de pluie&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="jhRRkq6tgHS31s3PWTDB-29" vertex="1">
+        <mxCell id="jhRRkq6tgHS31s3PWTDB-54" value="&lt;div&gt;&lt;u&gt;Parts :&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- Sol stable&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Values :&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- Température ([-10°C ; +50°C])&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Humidité (&amp;lt;90%)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="jhRRkq6tgHS31s3PWTDB-29" vertex="1">
           <mxGeometry y="21" width="190" height="79" as="geometry" />
         </mxCell>
         <mxCell id="jhRRkq6tgHS31s3PWTDB-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="jhRRkq6tgHS31s3PWTDB-29" target="jhRRkq6tgHS31s3PWTDB-1" edge="1">
