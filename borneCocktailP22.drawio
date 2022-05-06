@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T13:21:48.959Z" agent="5.0 (Windows)" etag="8BpcDR3hsoHYS7aT32CS" version="18.0.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-05-06T13:25:58.927Z" agent="5.0 (Windows)" etag="8_q5nQhGLTeqso6xUFxt" version="18.0.1" type="github" pages="14">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 28/04">
     <mxGraphModel dx="1102" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1177,7 +1177,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-34" value="Système de préparation &#xa;de la boisson" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="483" y="550" width="150" height="144" as="geometry" />
+          <mxGeometry x="510" y="496" width="150" height="144" as="geometry" />
         </mxCell>
         <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-35" value="Liquides&lt;br&gt;solides" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DrRmmUzAoJ1X7GsHtZAJ-34">
           <mxGeometry y="40" width="150" height="104" as="geometry" />
@@ -1200,7 +1200,7 @@
             <mxPoint x="10" y="-20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-40" value="Verser" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;sketch=0;endFill=0;startArrow=open;startFill=0;" edge="1" parent="1" source="DrRmmUzAoJ1X7GsHtZAJ-38" target="DrRmmUzAoJ1X7GsHtZAJ-16">
+        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-40" value="Verser boisson" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;sketch=0;endFill=0;startArrow=open;startFill=0;" edge="1" parent="1" source="DrRmmUzAoJ1X7GsHtZAJ-38" target="DrRmmUzAoJ1X7GsHtZAJ-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="763" y="780" as="sourcePoint" />
             <mxPoint x="633" y="600" as="targetPoint" />
@@ -1245,7 +1245,7 @@
         <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-49" value="Système de réfrigération &#xa;des consommables" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="630" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-50" value="" style="endArrow=none;html=1;rounded=0;entryX=0.826;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DrRmmUzAoJ1X7GsHtZAJ-34">
+        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-50" value="" style="endArrow=none;html=1;rounded=0;entryX=0.826;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.573;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DrRmmUzAoJ1X7GsHtZAJ-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="583" y="590" as="sourcePoint" />
             <mxPoint x="595.9859999999999" y="333.96000000000004" as="targetPoint" />
@@ -1269,7 +1269,7 @@
             <mxPoint x="633" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-55" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DrRmmUzAoJ1X7GsHtZAJ-49">
+        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-55" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DrRmmUzAoJ1X7GsHtZAJ-49" target="DrRmmUzAoJ1X7GsHtZAJ-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="583" y="560" as="sourcePoint" />
             <mxPoint x="483" y="600" as="targetPoint" />
