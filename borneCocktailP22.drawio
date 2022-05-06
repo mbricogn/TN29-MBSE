@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T12:57:15.896Z" agent="5.0 (Windows)" etag="AhnufLdbyyvXtyOtXAa_" version="18.0.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-05-06T12:57:42.319Z" agent="5.0 (Windows)" etag="gyRSf4dND4hqWI2_OIeC" version="18.0.1" type="github" pages="14">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 28/04">
     <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1116,10 +1116,10 @@
             <mxPoint x="773" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tOzFPJDEvn8jNF_yQw1T-14" value="Système de distribution &#xa;&#xa;du récipient" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=52;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+        <mxCell id="tOzFPJDEvn8jNF_yQw1T-14" value="Système de distribution &#xa;du récipient" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=52;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="823" y="468.5" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tOzFPJDEvn8jNF_yQw1T-15" value="Système de distribution &#xa;&#xa;de la boisson" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+        <mxCell id="tOzFPJDEvn8jNF_yQw1T-15" value="Système de distribution&#xa;de la boisson" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="723" y="640" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tOzFPJDEvn8jNF_yQw1T-16" value="Système de commande" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
@@ -1206,7 +1206,7 @@
             <mxPoint x="533" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tOzFPJDEvn8jNF_yQw1T-33" value="Système de préparation &#xa;&#xa;de la boisson" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+        <mxCell id="tOzFPJDEvn8jNF_yQw1T-33" value="Système de préparation&#xa;de la boisson" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="483" y="550" width="150" height="144" as="geometry" />
         </mxCell>
         <mxCell id="tOzFPJDEvn8jNF_yQw1T-34" value="Liquides&lt;br&gt;solides" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tOzFPJDEvn8jNF_yQw1T-33">
