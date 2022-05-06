@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T18:40:50.559Z" agent="5.0 (Windows)" etag="42nbKRDA1_-oGQ58CjE5" version="18.0.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-05-06T18:42:49.124Z" agent="5.0 (Windows)" etag="60kHiA1-7C7LypERZH4f" version="18.0.1" type="github" pages="14">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 28/04">
     <mxGraphModel dx="1102" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1305,7 +1305,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-56" value="Entrée Matières Premières" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-56" value="Entrée Approvisionnement" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="364" y="797" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-57" value="Sortie boisson " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
