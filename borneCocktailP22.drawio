@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T18:19:40.901Z" agent="5.0 (Windows)" etag="a0Hh4SX4QlbmDuqGwd1e" version="18.0.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-05-06T18:22:36.805Z" agent="5.0 (Windows)" etag="pmE4XFsaR4zUzc1Kg2so" version="18.0.1" type="github" pages="14">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 28/04">
     <mxGraphModel dx="1102" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -130,7 +130,7 @@
         <mxCell id="jhRRkq6tgHS31s3PWTDB-9" value="Réseau d&#39;approvisionnement" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="370" y="479" width="200" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="jvRWoxybi9fmgKWLXUFN-1" value="&lt;div&gt;Solide&lt;/div&gt;&lt;div&gt;liquide&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="jhRRkq6tgHS31s3PWTDB-9" vertex="1">
+        <mxCell id="jvRWoxybi9fmgKWLXUFN-1" value="&lt;div&gt;&lt;u&gt;Parts :&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- Solides (poudres)&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Liquides (BIBs)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="jhRRkq6tgHS31s3PWTDB-9" vertex="1">
           <mxGeometry y="21" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jhRRkq6tgHS31s3PWTDB-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="jhRRkq6tgHS31s3PWTDB-9" edge="1">
