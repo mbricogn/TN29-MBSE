@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T11:20:53.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="vbcr_OPPh6WwTbuwGAUp" version="18.0.0" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-05-06T11:22:25.983Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="5i5vHif4iGpAE5ictiLy" version="18.0.0" type="github" pages="13">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 28/04">
     <mxGraphModel dx="924" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2232,7 +2232,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zElq9cOlT_1WPLtkT1s0-4" value="Recharger les solides" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
-          <mxGeometry x="270" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zElq9cOlT_1WPLtkT1s0-6" value="Placer un BIB" style="shape=ellipse;html=1;strokeWidth=1;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="280" y="110" width="120" height="60" as="geometry" />
