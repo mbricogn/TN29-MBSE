@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-07T08:23:37.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="MEpCUEr7Wxl6X2sHwSTT" version="18.0.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-05-07T08:24:52.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="mSqOa39gknhY7O6L8GV9" version="18.0.1" type="github" pages="14">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 28/04">
     <mxGraphModel dx="931" dy="463" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1078,10 +1078,10 @@
           <mxGeometry y="26" width="161" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i5fVHMDBQkp13aJhr75f-5" value="Système de commande" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-1" vertex="1">
-          <mxGeometry x="275" y="229.25" width="161" height="73" as="geometry" />
+          <mxGeometry x="275" y="229.25" width="161" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="i5fVHMDBQkp13aJhr75f-6" value="&lt;div&gt;&lt;u&gt;Parts :&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- Interface&lt;br&gt;&lt;u&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="i5fVHMDBQkp13aJhr75f-5" vertex="1">
-          <mxGeometry y="26" width="161" height="47" as="geometry" />
+        <mxCell id="i5fVHMDBQkp13aJhr75f-6" value="&lt;div&gt;&lt;u&gt;Parts :&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- Interface&lt;br&gt;&lt;u&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Value :&lt;/div&gt;&lt;div&gt;taille interface :(cm)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="i5fVHMDBQkp13aJhr75f-5" vertex="1">
+          <mxGeometry y="26" width="161" height="71" as="geometry" />
         </mxCell>
         <mxCell id="i5fVHMDBQkp13aJhr75f-8" value="&lt;div&gt;transmettre infos&lt;/div&gt;&lt;div&gt;commande&lt;/div&gt;" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;startArrow=open;startFill=0;endFill=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-1" source="S3FiOpJ8qldf3O6zpKCQ-2" target="i5fVHMDBQkp13aJhr75f-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1089,7 +1089,7 @@
             <mxPoint x="257" y="331" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i5fVHMDBQkp13aJhr75f-12" value="&lt;div&gt;transmettre&lt;/div&gt;&lt;div&gt;commande&lt;br&gt;&lt;/div&gt;" style="endArrow=open;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-1" source="KBPZIe81_S9C8Vu7XzPG-1" target="i5fVHMDBQkp13aJhr75f-6" edge="1">
+        <mxCell id="i5fVHMDBQkp13aJhr75f-12" value="&lt;div&gt;transmettre&lt;/div&gt;&lt;div&gt;commande&lt;br&gt;&lt;/div&gt;" style="endArrow=open;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-1" source="KBPZIe81_S9C8Vu7XzPG-1" target="i5fVHMDBQkp13aJhr75f-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="257" y="361" as="sourcePoint" />
             <mxPoint x="307" y="311" as="targetPoint" />
@@ -1119,7 +1119,7 @@
         <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-35" value="&lt;div&gt;&lt;u&gt;Parts :&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- Liquides&lt;/div&gt;&lt;div&gt;- Solides&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Values :&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- Viscosité&lt;/div&gt;&lt;div&gt;- Volume&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-34" vertex="1">
           <mxGeometry y="40" width="150" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-50" value="&lt;div&gt;transmettre infos&lt;/div&gt;&lt;div&gt;commande&lt;br&gt;&lt;/div&gt;" style="endArrow=none;html=1;rounded=0;entryX=0.708;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=0;endFill=0;startArrow=open;startFill=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-1" source="DrRmmUzAoJ1X7GsHtZAJ-34" target="i5fVHMDBQkp13aJhr75f-6" edge="1">
+        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-50" value="&lt;div&gt;transmettre infos&lt;/div&gt;&lt;div&gt;commande&lt;br&gt;&lt;/div&gt;" style="endArrow=none;html=1;rounded=0;entryX=0.708;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;endFill=0;startArrow=open;startFill=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-1" source="DrRmmUzAoJ1X7GsHtZAJ-35" target="i5fVHMDBQkp13aJhr75f-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="570" as="sourcePoint" />
             <mxPoint x="482.9859999999999" y="313.96000000000004" as="targetPoint" />
