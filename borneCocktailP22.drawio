@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-07T08:37:38.488Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="5so4NIGyPZwqfS0yiq6g" version="18.0.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-05-07T08:39:27.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="-RFUa8_xAtN4W49V3ELN" version="18.0.1" type="github" pages="14">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 28/04">
     <mxGraphModel dx="931" dy="463" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1159,10 +1159,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-16" value="Système de distribution &#xa;de la boisson" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-1" vertex="1">
-          <mxGeometry x="642" y="499" width="160" height="91" as="geometry" />
+          <mxGeometry x="642" y="499" width="160" height="131" as="geometry" />
         </mxCell>
-        <mxCell id="z0avjvAl2YP_qBcy3YM1-1" value="&lt;div&gt;&lt;u&gt;Values :&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- Vitesse de versement (cl/s)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-16" vertex="1">
-          <mxGeometry y="50" width="160" height="41" as="geometry" />
+        <mxCell id="z0avjvAl2YP_qBcy3YM1-1" value="&lt;div&gt;&lt;u&gt;Parts :&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Système de distribution de paille&lt;/div&gt;&lt;div&gt;&lt;u&gt;Values :&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- Vitesse de versement (cl/s)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-16" vertex="1">
+          <mxGeometry y="50" width="160" height="81" as="geometry" />
         </mxCell>
         <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-12" value="&lt;div&gt;transmettre&lt;/div&gt;&lt;div&gt;infos&lt;/div&gt;&lt;div&gt;récipient&lt;br&gt;&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.181;exitY=0.98;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;exitPerimeter=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-1" source="-oxvNyCPWSrEVhBjI-Kn-4" target="DrRmmUzAoJ1X7GsHtZAJ-16" edge="1">
           <mxGeometry relative="1" as="geometry">
