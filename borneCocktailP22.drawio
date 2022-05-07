@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-07T08:24:52.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="mSqOa39gknhY7O6L8GV9" version="18.0.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-05-07T08:35:27.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="IklXNOoLvmhSP6Bl2FVU" version="18.0.1" type="github" pages="14">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 28/04">
     <mxGraphModel dx="931" dy="463" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1126,10 +1126,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-49" value="Système de réfrigération &#xa;des consommables" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-1" vertex="1">
-          <mxGeometry x="518" y="59.5" width="228" height="109" as="geometry" />
+          <mxGeometry x="654" y="55" width="177" height="109" as="geometry" />
         </mxCell>
         <mxCell id="S3FiOpJ8qldf3O6zpKCQ-5" value="&lt;div&gt;&lt;u&gt;Values :&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- Température interne (°)&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Conductivité thermique (W/m/°)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-49" vertex="1">
-          <mxGeometry y="30" width="228" height="79" as="geometry" />
+          <mxGeometry y="30" width="177" height="79" as="geometry" />
         </mxCell>
         <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-8" value="Système de catérisation" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-1" vertex="1">
           <mxGeometry x="13" y="550" width="150" height="88" as="geometry" />
@@ -1267,6 +1267,12 @@
             <mxPoint x="325.25" y="239.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rO05A0OULOorEPp18_sD-1" value="Système de Détection&#xa;des consommables" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="DrRmmUzAoJ1X7GsHtZAJ-1">
+          <mxGeometry x="456" y="64" width="172" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="rO05A0OULOorEPp18_sD-2" value="&lt;div&gt;&lt;u&gt;Values :&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- Porté (cm)&lt;br&gt;&lt;/div&gt;&lt;div&gt;- nombre consommable (BIBs)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rO05A0OULOorEPp18_sD-1">
+          <mxGeometry y="30" width="172" height="79" as="geometry" />
+        </mxCell>
         <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-37" value="" style="group;rotation=-180;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="793" y="802" width="20" height="21.5" as="geometry" />
         </mxCell>
@@ -1285,7 +1291,7 @@
             <mxPoint x="633" y="622" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-48" value="capter récipient" style="endArrow=open;html=1;rounded=0;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="DrRmmUzAoJ1X7GsHtZAJ-46" target="DrRmmUzAoJ1X7GsHtZAJ-13" edge="1">
+        <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-48" value="capter récipient" style="endArrow=open;html=1;rounded=0;endFill=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="DrRmmUzAoJ1X7GsHtZAJ-46" target="DrRmmUzAoJ1X7GsHtZAJ-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1003" y="406" as="sourcePoint" />
             <mxPoint x="840" y="406" as="targetPoint" />
@@ -1426,11 +1432,16 @@
             <mxPoint x="195" y="733" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rO05A0OULOorEPp18_sD-3" value="Détecter" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=open;startFill=0;" edge="1" parent="1" source="rO05A0OULOorEPp18_sD-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="753.4884948730469" y="53.11808776855469" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="kEMk4fvhF6naomALo4RO" name="[Reqt] Conserver">
-    <mxGraphModel dx="2271" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2333" dy="579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1620,7 +1631,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="[Reqt] S&#39;adapter à la clientèle" id="RyvxUyRiHGZsw0JRCZht">
-    <mxGraphModel dx="3440" dy="1399" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3502" dy="1406" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="m0b-0R2HOMqG2GHah_Wu-0" />
         <mxCell id="m0b-0R2HOMqG2GHah_Wu-1" parent="m0b-0R2HOMqG2GHah_Wu-0" />
@@ -1841,7 +1852,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="[Reqt] Réaliser le mélange" id="YlLCeHOAlY557fwWHUjk">
-    <mxGraphModel dx="3440" dy="1399" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3502" dy="1406" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="n0H2aNr1cAWR9lz0R8H2-0" />
         <mxCell id="n0H2aNr1cAWR9lz0R8H2-1" parent="n0H2aNr1cAWR9lz0R8H2-0" />
@@ -2184,7 +2195,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="akPj4f4hkcg7Cbd6HTeM" name="[UC] Réaliser le Cocktail">
-    <mxGraphModel dx="1102" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1164" dy="579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2276,7 +2287,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="[Reqt]S&#39;adapter au récipient" id="fGLBIvZ2_5Qf4Eza6rd6">
-    <mxGraphModel dx="2271" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2093" dy="579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="prfU_2Q9fSbe94WKe3LK-0" />
         <mxCell id="prfU_2Q9fSbe94WKe3LK-1" parent="prfU_2Q9fSbe94WKe3LK-0" />
@@ -2379,7 +2390,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CbH8yMqJxyMV-QVyaYFH" name="[UC] S&#39;adapter à la clientèle">
-    <mxGraphModel dx="1102" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1164" dy="579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2581,7 +2592,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SSCXfisaonk5-bXN9fUk" name="[UC]S&#39;adapter au récipient">
-    <mxGraphModel dx="1102" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1164" dy="579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2670,7 +2681,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vNa87aKuGV6cY1YLFudP" name="[UC] Conserver">
-    <mxGraphModel dx="1102" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1164" dy="579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
