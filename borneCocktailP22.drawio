@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-07T08:21:52.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="PthtCd1GW1M2vuGcWdQl" version="18.0.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-05-07T08:23:37.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="MEpCUEr7Wxl6X2sHwSTT" version="18.0.1" type="github" pages="14">
   <diagram id="RyfaYhDcdRHYEOJxS_Qi" name="Finalités et Mission 28/04">
     <mxGraphModel dx="931" dy="463" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1055,7 +1055,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7h3OoJFn3-Qs_RUxbv4r" name="IDB">
-    <mxGraphModel dx="1164" dy="579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F5F5F5" math="0" shadow="0">
+    <mxGraphModel dx="924" dy="579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F5F5F5" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1083,7 +1083,7 @@
         <mxCell id="i5fVHMDBQkp13aJhr75f-6" value="&lt;div&gt;&lt;u&gt;Parts :&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- Interface&lt;br&gt;&lt;u&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="i5fVHMDBQkp13aJhr75f-5" vertex="1">
           <mxGeometry y="26" width="161" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="i5fVHMDBQkp13aJhr75f-8" value="&lt;div&gt;transmettre infos&lt;/div&gt;&lt;div&gt;commande&lt;/div&gt;" style="endArrow=open;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=open;startFill=0;endFill=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-1" source="S3FiOpJ8qldf3O6zpKCQ-2" target="i5fVHMDBQkp13aJhr75f-5" edge="1">
+        <mxCell id="i5fVHMDBQkp13aJhr75f-8" value="&lt;div&gt;transmettre infos&lt;/div&gt;&lt;div&gt;commande&lt;/div&gt;" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;startArrow=open;startFill=0;endFill=0;" parent="DrRmmUzAoJ1X7GsHtZAJ-1" source="S3FiOpJ8qldf3O6zpKCQ-2" target="i5fVHMDBQkp13aJhr75f-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="307" y="281" as="sourcePoint" />
             <mxPoint x="257" y="331" as="targetPoint" />
@@ -1259,6 +1259,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="306" y="639" as="sourcePoint" />
             <mxPoint x="239" y="605" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vjXvhb__q1oBLY4Fer3g-1" value="&lt;div&gt;Valider payment&lt;/div&gt;" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;startArrow=open;startFill=0;endFill=0;" edge="1" parent="DrRmmUzAoJ1X7GsHtZAJ-1" source="i5fVHMDBQkp13aJhr75f-5" target="S3FiOpJ8qldf3O6zpKCQ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="326" y="183" as="sourcePoint" />
+            <mxPoint x="325.25" y="239.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DrRmmUzAoJ1X7GsHtZAJ-37" value="" style="group;rotation=-180;" parent="1" vertex="1" connectable="0">
